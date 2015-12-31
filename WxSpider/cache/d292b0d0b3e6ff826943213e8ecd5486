@@ -1,0 +1,678 @@
+s:43868:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 18 Dec 2015 07:37:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: ABTEST=0|1450424255|v1; expires=Sun, 17-Jan-16 07:37:35 GMT; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: SNUID=41A4941F6C694B4B5AE7C4C26D103045; expires=Mon, 28-Dec-15 07:37:35 GMT; domain=.sogou.com; path=/
+Set-Cookie: IPLOC=CN1100; expires=Sat, 17-Dec-16 07:37:35 GMT; domain=.sogou.com; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: SUID=2DC8F9722708930A000000005673B7BF; expires=Thu, 13-Dec-35 07:37:35 GMT; domain=weixin.sogou.com; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Cache-Control: max-age=0
+x_ad_pagesize: adpagesize=0
+Set-Cookie: black_passportid=1; domain=.sogou.com; path=/; expires=Thu, 01-Dec-1994 16:00:00 GMT
+Expires: Fri, 18 Dec 2015 07:37:35 GMT
+
+
+<!doctype html>
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta charset="utf-8">
+<title>头发的相关微信公众号 – 搜狗微信搜索</title>
+
+<script>var sst={h_s:(new Date()).getTime()}</script>
+<link href="/wechat/css/main06.min.css?v=1" rel="stylesheet" type="text/css">
+<script>var oldQuery="头发";var gbkQuery="%CD%B7%B7%A2";var uuid="27cc2de1-ed03-4a81-9d6e-c639ccefac76";var keywords_string="头发";var sab="0";var keywords=oldQuery.split(' ');var now=1450424255933;var idc="cnc";var clientIp="114.249.200.45";
+
+</script><script src="/wechat/js/require.min.js"></script>
+<script src="/wechat/js/declare.min.js"></script>
+<script src="/wechat/js/sogou_common2.min.js"></script>
+<script src="/wechat/js/weixin_pc.min.js?v=1"></script>
+<script>bind(window,"load",function(){if(document.body.clientWidth<1200){document.body.className="vr1024"}else{document.body.className=""}bind(window,"resize",function(){if(document.body.clientWidth<1200){document.body.className="vr1024"}else{document.body.className=""}})});</script>
+<script type="text/javascript" charset="gbk" src="/js/jquery-1.11.0.min.js"></script>
+
+<style>#timefilter{display:none;}</style>
+
+</head>
+<body>
+<script>function getCookieVal(offset){var endstr=document.cookie.indexOf(";",offset);if(endstr==-1)endstr=window.document.cookie.length;return document.cookie.substring(offset,endstr)}function getCookie(name){var arg=name+"=";var alen=arg.length;var clen=document.cookie.length;var i=0;while(i<clen){var j=i+alen;if(document.cookie.substring(i,j)==arg)return getCookieVal(j);i=document.cookie.indexOf(" ",i)+1;if(i==0)break}return null}</script>
+
+
+<link href="/wechat/css/weixin-public.min.css?v=3" rel="stylesheet" type="text/css"/>
+<style>.wx-rb *{zoom:1}</style>
+<script>
+function ie6style(ieStyle,otherStyle) {
+    var  realcss=otherStyle||"";
+    if(navigator.userAgent.match(/MSIE/)) {
+        realcss=ieStyle
+    }
+    if(realcss!=undefined&&realcss!=""){
+        var head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style');
+        style.type = 'text/css';
+        if (style.styleSheet) {
+            style.styleSheet.cssText = realcss;
+        } else {
+            style.appendChild(document.createTextNode(realcss));
+        }
+        head.appendChild(style);
+    }
+}
+ie6style('.hsform .query{height:18px}');
+</script>
+<div class="pop-ie" style="display:none">
+  <p class="p1">您的浏览器版本过低,，请升级到IE7.0以上版本或者使用其他浏览器，登录后体验新功能。</p>
+  <p class="p2"><a href="#">知道了</a></p>
+  <span></span>
+</div>
+<div class="wrap">
+<dl id="top_login_bar" class="topbar" style="padding-right: 10px"><dd class="no-bg"><a id="top_login" class="res-logn-ico" href="javascript:void(0);" uigs="weixin_pc_login_top">登录</a></dd><script>$(function(){$('#top_login,[name=top_login]').click(function() {var refer = document.referrer;(new Image()).src = 'http://pb.sogou.com/pv.gif?uigs_productid=weixin&type=gzhjs_login&status=2&refer='+encodeURIComponent(refer);showLogin(refer); });})</script></dl>
+<script>weixin_sougou_islogin = false; </script>
+    <!--start header-->
+  <div class="header-box">
+    <div class="header">
+        <a title="回到搜狗首页" href="/" name="scroll-nav" class="logo">
+          <img src="/wechat/images/sousuo01_1.png" width="130" height="32" alt="">
+        </a>
+        <ul class="searchnav" name="scroll-nav">
+          <li><a t=q href="http://news.sogou.com/news?ie=utf8&p=40230447&query=头发" id=sogou_news onclick="navBar(this,'query=',true);">新闻</a></li>
+          <li><a t=q href="http://www.sogou.com/web?ie=utf8&query=头发" id=sogou_leftall onclick="navBar(this,'query=',true);">网页</a></li>
+          <li class="cur">微信</li>
+          <li><a t=q href="http://zhihu.sogou.com/zhihu?ie=utf8&p=73351201&query=头发" id=sogou_zhihu onclick="navBar(this,'query=',true)">知乎<span class="nav-new"></span></a></li>
+          <li><a t=q href="http://wenwen.sogou.com/s/?cid=websearch2ww&w=头发" id=sogou_wenwen onclick="navBar(this,'w=',true)">问问</a></li>
+          <li><a t=q href="http://pic.sogou.com/pics?ie=utf8&p=40230504&query=头发" id=sogou_pic onclick="navBar(this,'query=',true)">图片</a></li>
+          <li><a t=q href="http://v.sogou.com/v?ie=utf8&p=40230608&query=头发" onclick="navBar(this,'query=',true)" id="sogou_video">视频</a></li>
+          
+          <li><a t=q href="http://map.sogou.com/#lq=头发" id=sogou_maps onclick="navBar(this,'#lq=',false)">地图</a></li>
+          
+          <li><a t=q href="http://gouwu.sogou.com/shop?p=40031500&ie=utf8&query=头发" id=sogou_shop onclick="navBar(this,'query=',true)">购物</a></li>
+          <li style="width:45px" ><a href="http://www.sogou.com/docs/more.htm?v=1" id="top_more" target="_blank">更多<span>&gt;&gt;</span></a></li>
+        </ul>
+      <script src="/wechat/js/weixin_filter.min.js"></script>
+      <form action="/weixin" name="searchForm" >
+        
+<div class="querybox">
+    <div class="qborder">
+        <div class="qborder2">
+            <input type="hidden" name="type" id="uptype" value="1"/>
+            <input type="text"
+                   class="query"
+                   id="upquery"
+                   name="query"
+                   ov="头发"
+                   value="头发"
+                   autocomplete="off"
+
+                    >
+            
+            <input type="hidden" name="ie" value="utf8"/>
+            
+            
+            
+            <a href="javascript:void(0)" class="qreset2" ></a>
+        </div>
+    </div>
+    <input type="button" value="搜文章" class="swz" onclick="weinxinfilter(this,2)"  uigs="weixin_search_button_pc_art">
+    <input type="button" value="搜公众号" class="swz2"  onclick="weinxinfilter(this,1)" uigs="weixin_search_button_pc_gzh">
+</div>
+
+
+
+      </form>
+  </div>
+  </div>
+  <!--end header-->
+
+
+<div class="wrap">
+    <div class="wrapper" id="wrapper">
+<div id="main" class="main">
+<div class="weixin-public">
+
+
+
+
+<div class="weixin-public">
+    <div class="wx-topbox">以下内容来自微信公众号
+        <div class="all-time" style="height:34px">
+            <span id="timefilter" >
+            <a name="filter_time" class="btn-time cur">全部时间
+        </a>
+
+            <div class="time-box" name="filter_time_content" style="display:none"><i></i>
+                
+                <a id="left_timespan_0" class='cur' href="javascript:void(0)">全部时间</a>
+                
+                <a id="left_timespan_1"  href="?query=%E5%A4%B4%E5%8F%91&type=1&ie=utf8&sourceid=inttime_day&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=1">一天内</a>
+                
+                <a id="left_timespan_2"  href="?query=%E5%A4%B4%E5%8F%91&type=1&ie=utf8&sourceid=inttime_week&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=2">一周内</a>
+                
+                <a id="left_timespan_3"  href="?query=%E5%A4%B4%E5%8F%91&type=1&ie=utf8&sourceid=inttime_month&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=3">一月内</a>
+                
+                <a id="left_timespan_4"  href="?query=%E5%A4%B4%E5%8F%91&type=1&ie=utf8&sourceid=inttime_year&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=4">一年内</a>
+                
+            </div>
+            
+            
+                </span>
+            <span style="display:none">
+            <a href="javascript:void(0)" class="clear-time" style="display:none" name="search_tools_open" uigs="weixin_pc_art_searchtool_open">搜索工具</a>
+            <a href="javascript:void(0)" class="clear-time" uigs="weixin_pc_art_searchtool_close"  name="search_tools_close">收起工具</a>
+            </span>
+        </div>
+
+    <script>$(function () {
+        $("[name=filter_time]").click(function () {
+            $("[name=filter_time_content]").toggle();
+            return false;
+        });
+        $("body").click(function(){
+            $("[name=filter_time_content]").hide();
+        })
+        var jopen=$('[name=search_tools_open]');
+        var jclose=$('[name=search_tools_close]');
+        var jsearchTool=$("#timefilter");
+        jopen.click(function () {
+            jopen.hide()
+            jclose.show();
+            jsearchTool.show();
+        })
+        jclose.click(function () {
+            jclose.hide();
+            jsearchTool.hide();
+            jopen.show();
+        })
+    })</script>
+    </div>
+
+</div>
+
+
+
+
+
+
+<div><div class="results mt7">
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt9Jl3vjzclgphM7j3JPX7Pw&amp;ext=BwNJn-VLvvPvfnfPsucYZNVGVoDYkUDvJdNoCUgKs9ODqpo0dwYjAjHwDaa25AL8" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt9Jl3vjzclgphM7j3JPX7Pw&amp;ext=BwNJn-VLvvPvfnfPsucYZNVGVoDYkUDvJdNoCUgKs9ODqpo0dwYjAjHwDaa25AL8',event,this);return true;" id="sogou_vr_11002301_box_0" uigs="sogou_vr_11002301_box_0">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt9Jl3vjzclgphM7j3JPX7Pw" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7cxicdBoeBrHg8NZK2s2uiat8a2jOicBIcss4vQn2wqOq2Q/0/0'"></div>
+<div class="txt-box">
+<h3>不弄<em><!--red_beg-->头发<!--red_end--></em>就闹心</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">NTF008</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">每天不弄<em><!--red_beg-->头发<!--red_end--></em>就闹心啊啊啊,召集所有喜欢折腾<em><!--red_beg-->头发<!--red_end--></em>的菇凉们~~~!!!</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">东莞市华地电子商务有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_0" href="/websearch/art.jsp?sg=CBf80b2xkgaIpWUdD5AZpY2ZLV_eGWTWL3RuFxSh0qUC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgPAbT1zXYd5wh_VhlmvLWaFJmAPOq06Mzj09tfl5jvrWQ3JxMQ3374cjHSwJVjlO6WeGT_1FBxX_Csxf1z7AfAGYYsbkpR79dYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">瞬间提高颜值的发型,你敢剪吗?</a><span class="hui"><script>vrTimeHandle552write('1450342665')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '0');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt9Jl3vjzclgphM7j3JPX7Pw" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7cxicdBoeBrHg8NZK2s2uiat8a2jOicBIcss4vQn2wqOq2Q/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/okOdkjfEBgl5hybxnxaG"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFtx0unLwTkTOf4p2yYGvGIuM&amp;ext=BwNJn-VLvvNzwefko1-AsaxdCpwyzndfHcPo7fn40B0VfoeDNrGIR0Zc7q-EhoWL" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFtx0unLwTkTOf4p2yYGvGIuM&amp;ext=BwNJn-VLvvNzwefko1-AsaxdCpwyzndfHcPo7fn40B0VfoeDNrGIR0Zc7q-EhoWL',event,this);return true;" id="sogou_vr_11002301_box_1" uigs="sogou_vr_11002301_box_1">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtx0unLwTkTOf4p2yYGvGIuM" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM77WNqCTEB9OSl5uusT9ianVGCf9pDQZYrGgASwagNgbkw/0/0'"></div>
+<div class="txt-box">
+<h3>扎<em><!--red_beg-->头发<!--red_end--></em>好简单</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">ceshi999</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">百科 常识 秘方 窍门 生活宝典 健康知识 时尚生活 实用窍门</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">太原精彩科技有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_1" href="/websearch/art.jsp?sg=xaXJ7lM8QYRFchSthUykK_1fto5VLoqzTGeKzvXFZN4C3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgyjNjUmqiZAzVdM0jY6hqCRYurCcL_DvXmUb_CmLwD_GQ3JxMQ3374F3B8oU7BS2rWgvToD2sP7euUt3h3HSOg685YOUvncUBYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">女人第一次到底有多疼?看了就知道!</a><span class="hui"><script>vrTimeHandle552write('1425293451')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '1');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtx0unLwTkTOf4p2yYGvGIuM" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM77WNqCTEB9OSl5uusT9ianVGCf9pDQZYrGgASwagNgbkw/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/5XUbFELEd3wIh1N3nyDB"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt09ZjsjWSegfih1PSlozH2E&amp;ext=BwNJn-VLvvPxS0U41jHyhIk_iYDdxQAVb3DIdRJOM9NF2ncp4r-XDJJFaRT2s299" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt09ZjsjWSegfih1PSlozH2E&amp;ext=BwNJn-VLvvPxS0U41jHyhIk_iYDdxQAVb3DIdRJOM9NF2ncp4r-XDJJFaRT2s299',event,this);return true;" id="sogou_vr_11002301_box_2" uigs="sogou_vr_11002301_box_2">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt09ZjsjWSegfih1PSlozH2E" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6qvefzTDmwpuYgaZqAfLlDvmKprHXH8jClbSOkNkGGYg/0/0'"></div>
+<div class="txt-box">
+<h3>教你盘<em><!--red_beg-->头发<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">viptf99</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">发型对了;怎么穿都美!爱折腾<em><!--red_beg-->头发<!--red_end--></em>就关注我吧!美丽从头开始;每天为你献上最好的<em><!--red_beg-->头发<!--red_end--></em>攻略.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">深圳每天网络传媒有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_2" href="/websearch/art.jsp?sg=-kjBTUzEYBC1AnLYAf2tCnJYzECxpCWXC2zXCY_Hl7gC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wjYBKpJ3zld2kKTKv4Aj1kvUW-zPEc5g3wiQWtuJ9_DZ2Q3JxMQ33740TojkjoErJmMO3AiOHsJ1eq74GV5MvVwVxS-spP2CyVYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">老婆说:我们离婚吧!老公的一句话,让丈母娘都跪了......</a><span class="hui"><script>vrTimeHandle552write('1450349313')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '2');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt09ZjsjWSegfih1PSlozH2E" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6qvefzTDmwpuYgaZqAfLlDvmKprHXH8jClbSOkNkGGYg/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/h0RrZPzEJMJbh_0HnxGj"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt20KJ-ukVIozuQurtO6rjU8&amp;ext=BwNJn-VLvvOFREbJ6IBxb-4RraKYjVx1-XtmDzXzrP2lEt_3rfPHaxu95m_VuKPf" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt20KJ-ukVIozuQurtO6rjU8&amp;ext=BwNJn-VLvvOFREbJ6IBxb-4RraKYjVx1-XtmDzXzrP2lEt_3rfPHaxu95m_VuKPf',event,this);return true;" id="sogou_vr_11002301_box_3" uigs="sogou_vr_11002301_box_3">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt20KJ-ukVIozuQurtO6rjU8" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5PBS6NSHj5U8gONCjn5LGNQntGuCpB8qz0RwSoX62Dqw/0/0'"></div>
+<div class="txt-box">
+<h3>教你会盘<em><!--red_beg-->头发<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">viptf5</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">三分长相,七分打扮!发型对了,怎么穿都美!爱折腾<em><!--red_beg-->头发<!--red_end--></em>就关注我吧.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">深圳懂点网络科技有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_3" href="/websearch/art.jsp?sg=sn77VhdTZLrvG2t05LGAiAdZ33m11FYrqswJiq1cwrgC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wh9dhb57Dv9sG2cVVrg5EzjUW-zPEc5g3zPBZBFX6suh2Q3JxMQ3374go6GH4sYbZHJ7kY3XpxzCJTk612OkT-QxoDyhDWKM75Yy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">利落的丸子头,不再是一个简单的发髻</a><span class="hui"><script>vrTimeHandle552write('1450343795')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '3');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt20KJ-ukVIozuQurtO6rjU8" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5PBS6NSHj5U8gONCjn5LGNQntGuCpB8qz0RwSoX62Dqw/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/xzmDjCTEGRpmhzXvn2zj"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt4fyBiaVPVYXs779ag6EIJA&amp;ext=BwNJn-VLvvPj490GjxwfsI3DwEBU1B6j-dU6zh1HCbpHtx_xFpyH9xlz9okCEMA4" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt4fyBiaVPVYXs779ag6EIJA&amp;ext=BwNJn-VLvvPj490GjxwfsI3DwEBU1B6j-dU6zh1HCbpHtx_xFpyH9xlz9okCEMA4',event,this);return true;" id="sogou_vr_11002301_box_4" uigs="sogou_vr_11002301_box_4">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt4fyBiaVPVYXs779ag6EIJA" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4Fs7d27icRr7yIFJMRy7fJuAibERPWUI5goqoujfnf8GoA/0/0'"></div>
+<div class="txt-box">
+<h3>不弄<em><!--red_beg-->头发<!--red_end--></em>就闹心</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">toufass</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">想让发型为你的形象加分么?马上关注吧!召集爱美丽;爱时尚;喜欢折腾<em><!--red_beg-->头发<!--red_end--></em>的姑凉们!每天奉上各式最时尚的发型;总有一款让你迷死人!</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_4" href="/websearch/art.jsp?sg=MZBLgxp1jtUvJsQGGRWvThQFrnN57enSr4ao1hfGkPAC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiWvSmnYRWD2owiPDY1DDLaTlCIIgb6R88MCA-UJtDozWQ3JxMQ3374dMhfnwKmMNlZwMwZUyHWi0Pj7ec2GZlJgOOdbR2K6nJYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">想做服装代理的来!一件代发货,轻松月入20000,非常适合年轻人和...</a><span class="hui"><script>vrTimeHandle552write('1450402130')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '4');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt4fyBiaVPVYXs779ag6EIJA" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4Fs7d27icRr7yIFJMRy7fJuAibERPWUI5goqoujfnf8GoA/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/PkPLxKTEmprlh7WnnxYa"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt3gLmyrW9R6ZLIM0xHKxvew&amp;ext=BwNJn-VLvvN3_BhwecB-4FezjDj0y5fMTVOHIGntV23LMg-XtlVtAHpmgsAALMJI" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt3gLmyrW9R6ZLIM0xHKxvew&amp;ext=BwNJn-VLvvN3_BhwecB-4FezjDj0y5fMTVOHIGntV23LMg-XtlVtAHpmgsAALMJI',event,this);return true;" id="sogou_vr_11002301_box_5" uigs="sogou_vr_11002301_box_5">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt3gLmyrW9R6ZLIM0xHKxvew" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4sWOxGnD43GyNcIILpyIbzsEnuDQd1jPaJoFh16ZsfLQ/0/0'"></div>
+<div class="txt-box">
+<h3>教你扎<em><!--red_beg-->头发<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">jnztoufa</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">发型对了,怎么穿都美!爱折腾<em><!--red_beg-->头发<!--red_end--></em>就关注@教你扎<em><!--red_beg-->头发<!--red_end--></em>!</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_5" href="/websearch/art.jsp?sg=fB-1fST8iWBeao-42O3B6Y5UQ-vDCvJz2YxZX75s_BsC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiZF6tHUMipC9n9DuSL1tXuFJmAPOq06MxhdlphOu7y0WQ3JxMQ3374_rYZnrao1W6qrAyfi_zBHrxHxYDkWhxX51DQJeHCO0BYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">一分钟学会的神奇化妆术,化出和女神baby一样的瘦脸!</a><span class="hui"><script>vrTimeHandle552write('1450408809')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '5');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt3gLmyrW9R6ZLIM0xHKxvew" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4sWOxGnD43GyNcIILpyIbzsEnuDQd1jPaJoFh16ZsfLQ/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/1Uh0ewzEejIFhx0Ynx3x"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt_C5D86EJ4XaJNagD8zi18g&amp;ext=BwNJn-VLvvMkEGINUG2Ocs10Hh26oEjilwrAFHt_m2PaEHq492SpVflPbygVA5pD" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt_C5D86EJ4XaJNagD8zi18g&amp;ext=BwNJn-VLvvMkEGINUG2Ocs10Hh26oEjilwrAFHt_m2PaEHq492SpVflPbygVA5pD',event,this);return true;" id="sogou_vr_11002301_box_6" uigs="sogou_vr_11002301_box_6">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_C5D86EJ4XaJNagD8zi18g" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7zn8ib5mDTMibprsPOSp3icFPbqllCDxSA9vdEY2F5k5Bkw/0/0'"></div>
+<div class="txt-box">
+<h3>一起扎<em><!--red_beg-->头发<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">zhatf77756</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">让凌乱的<em><!--red_beg-->头发<!--red_end--></em>安静的,美丽的,乖乖的,美美的扎起来,这里每天都有取之不尽的扎<em><!--red_beg-->头发<!--red_end--></em>技巧教程为您展现</span>
+</p>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_C5D86EJ4XaJNagD8zi18g" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7zn8ib5mDTMibprsPOSp3icFPbqllCDxSA9vdEY2F5k5Bkw/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/MElMQ1zEnmLhh00gnxwU"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFtyiQDZSza_A2xQAUfScSh4g&amp;ext=BwNJn-VLvvNiwIpViXiKhJwrixtJG_qk4WPTzdOqXAeou-OLXxkuJkmqpdmq8EYH" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFtyiQDZSza_A2xQAUfScSh4g&amp;ext=BwNJn-VLvvNiwIpViXiKhJwrixtJG_qk4WPTzdOqXAeou-OLXxkuJkmqpdmq8EYH',event,this);return true;" id="sogou_vr_11002301_box_7" uigs="sogou_vr_11002301_box_7">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtyiQDZSza_A2xQAUfScSh4g" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6jJmWCttOOvGKlP1Hs1Sb5Np8WAsfQHKHjyu8nSyQOOQ/0/0'"></div>
+<div class="txt-box">
+<h3><em><!--red_beg-->头发<!--red_end--></em>乱吗</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">toufaok</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt"><em><!--red_beg-->头发<!--red_end--></em>乱了绝不出门,万一遇见男神怎么办?;;如果每天不弄弄<em><!--red_beg-->头发<!--red_end--></em>整个人都感觉不好了,那你得多看看我是怎么弄<em><!--red_beg-->头发<!--red_end--></em>的...</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_7" href="/websearch/art.jsp?sg=MPE2YXjatrwveuLGnM_GJjgYuQgS0gfYIddDgFGYl_AC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8what8KDgt7I0YO5uPozWZWMM-zqhvKlj3eP1tr1jPUJXGQ3JxMQ3374-p0X5qH50dV0_ZhvwQR_7MzAXnHGoRM6LShWzy_-RbBYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">女神护理<em><!--red_beg-->头发<!--red_end--></em>的秘密 我也只能帮到这儿了 剩下的靠你自己咯</a><span class="hui"><script>vrTimeHandle552write('1443235378')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '7');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtyiQDZSza_A2xQAUfScSh4g" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6jJmWCttOOvGKlP1Hs1Sb5Np8WAsfQHKHjyu8nSyQOOQ/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/MUkOAWbEn1jgh3dinxwV"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt2uBw07DVE97fPN9Q9G2-no&amp;ext=BwNJn-VLvvM16HJg3jNOZwO0qWB5e_lG9GvIdUgq4MLt3u2NKgZ1sZn1QWQNcolz" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt2uBw07DVE97fPN9Q9G2-no&amp;ext=BwNJn-VLvvM16HJg3jNOZwO0qWB5e_lG9GvIdUgq4MLt3u2NKgZ1sZn1QWQNcolz',event,this);return true;" id="sogou_vr_11002301_box_8" uigs="sogou_vr_11002301_box_8">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt2uBw07DVE97fPN9Q9G2-no" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6v3YtUAuiacvBjT38NNp2fC66tgecFrSRr2TMmDWJciaRA/0/0'"></div>
+<div class="txt-box">
+<h3>扎<em><!--red_beg-->头发<!--red_end--></em>很简单</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">XinFaXing365</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">其实,女孩子呀!;;发型对了,穿什么都美!;;关注我,咱一起好好折腾<em><!--red_beg-->头发<!--red_end--></em>吧!</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_8" href="/websearch/art.jsp?sg=HIL9GMq1R09AcZ0_LUr93osX6gyTIYVJTInwJLDVasIC3E704m6Il-vX4QJRZ6MavPBNTJwirSjESa7paQPCBA4AaPnsnkt3mbMBbkRd0Dw.&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8willbX_RNKHBpB9q8cxrkn66anriY-nGorCnKeF5GWz9WQ3JxMQ3374pHpXVJYysWmD9NlY3Lwpnc2kY7vKj9JjsTa6C8T6RfpYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">女生为<em><!--red_beg-->头发<!--red_end--></em>所受的苦,男生根本就不懂!!!</a><span class="hui"><script>vrTimeHandle552write('1418017617')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '8');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt2uBw07DVE97fPN9Q9G2-no" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6v3YtUAuiacvBjT38NNp2fC66tgecFrSRr2TMmDWJciaRA/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/T0inqJTE4Kqfh4XLnx1r"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt_DtA0M6kJGz39-obELdiSs&amp;ext=BwNJn-VLvvMEwayxz5HcYPxdHMaYDOawpOUbWKd4HuqzvzpYzhSTybbdHfcXFgDA" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt_DtA0M6kJGz39-obELdiSs&amp;ext=BwNJn-VLvvMEwayxz5HcYPxdHMaYDOawpOUbWKd4HuqzvzpYzhSTybbdHfcXFgDA',event,this);return true;" id="sogou_vr_11002301_box_9" uigs="sogou_vr_11002301_box_9">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_DtA0M6kJGz39-obELdiSs" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5oy9o7fXzgGBWDQhSmTiayygeeG3AoQW9aPZXc0oVcw4A/0/0'"></div>
+<div class="txt-box">
+<h3>黑<em><!--red_beg-->头发<!--red_end--></em>美发</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">htoufa2015</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">时尚的发型设计、打造完美的个人形象、为您量身制订属于您的美</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_9" href="/websearch/art.jsp?sg=2kVjpB5lvwMc31p0rmNiDGVxX_ysuYfQ3QPRrXUcOYX6oBsrxQzL54FUhwOQ2Z-IijBBbwnv6LHUNnXm-o6mSmlmlatjuC_52JdMu9FvON3LqsaZUK7G5A..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiZa-GklcAl3Vuogo1rgnh5RD7iN2JSGUvSf_mTthrSvmQ3JxMQ33740xguY_xk4pUk38ZCci1BKR9cGCTWgCCEvdmDvTZtuGlYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">看到让你心动</a><span class="hui"><script>vrTimeHandle552write('1442989796')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '9');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_DtA0M6kJGz39-obELdiSs" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5oy9o7fXzgGBWDQhSmTiayygeeG3AoQW9aPZXc0oVcw4A/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/T0hZVhfE4CmfhwY1nx1r"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+</div></div></div></div><div class="right" id="right">
+<span class="atGradientLine"></span><div class="atTrunk" style="padding-left:15px" id="kmap_entity_div">
+
+
+
+</div>
+
+
+</div></div><div class="p" id="pagebar_container"><span>1</span> <a id="sogou_page_2" href="?query=%E5%A4%B4%E5%8F%91&type=1&page=2&ie=utf8">2</a><a id="sogou_page_3" href="?query=%E5%A4%B4%E5%8F%91&type=1&page=3&ie=utf8">3</a><a id="sogou_next" href="?query=%E5%A4%B4%E5%8F%91&type=1&page=2&ie=utf8" class="np">下一页</a><div class="mun">找到约<resnum id="scd_num">29</resnum>条结果<!--resultbarnum:29--></div></div>
+<div class="foot" id="s_bottom_form">
+<form name="searchForm1" id="searchForm1" action="/weixin">
+<div class="querybox">
+    <div class="qborder">
+        <div class="qborder2">
+            <input type="hidden" name="type" id="uptype" value="1"/>
+            <input type="text"
+                   class="query"
+                   id="upquery"
+                   name="query"
+                   ov="头发"
+                   value="头发"
+                   autocomplete="off"
+
+                    >
+            
+            <input type="hidden" name="ie" value="utf8"/>
+            
+            
+            
+            <a href="javascript:void(0)" class="qreset2" ></a>
+        </div>
+    </div>
+    <input type="button" value="搜文章" class="swz" onclick="weinxinfilter(this,2)"  uigs="weixin_search_button_pc_art">
+    <input type="button" value="搜公众号" class="swz2"  onclick="weinxinfilter(this,1)" uigs="weixin_search_button_pc_gzh">
+</div>
+
+
+</form>
+</div>
+
+
+<div class="cr" id="s_footer"><!--[if IE]><a id="sogou_hpfooter" href="#pageEnd" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sogou.com');">设为首页</a> | <![endif]--><a target="_blank" id="sogou_webhelp" href="http://help.sogou.com/">搜索帮助</a><a href="http://weixin.sogou.com/gzh?openid=oIWsFtwbY2FBzmziwjDxei2vc_1Q&ext=BwNJn-VLvvMPQEERXg8J-PQTfDCKaXp-IQcUDrdIZbWqZKLMpOebP4sRlOFkfBJMacRucQgWtOtckHHpFQlE9Q.." target="_blank">官方微信</a> &copy; 2015 SOGOU.COM <a href="http://www.sogou.com/docs/terms.htm" target="_blank" class="g">免责声明</a></div></div>
+<script>sst.b_e=$s.t();</script>
+
+<script>var WX_SUGG_PAGE_FROM="pcGzhSearch"</script>
+
+<img style="position:absolute;top:-1px" src="http://www.sogou.com/img/fav.ico?27cc2de1-ed03-4a81-9d6e-c639ccefac76" height="0" border="0" width="0"/><form id="tupufankuiform" method="post" accept-charset="utf-8"><input type="hidden" name="cause" value="" /><input type="hidden" name="query" value="头发" /><input type="hidden" name="refer" value="null" /><input type="hidden" name="uuid" value="27cc2de1-ed03-4a81-9d6e-c639ccefac76" /><input type="hidden" name="scenehtml" value="" id="tupuscenehtml" /><input type="hidden" name="queryurl" value="" /><input type="hidden" name="content" value=""/></form><script>window.onload = function(){sst.w_l=$s.t(); if (document.searchForm1){document.searchForm1.reset();}if(document.searchForm && !document.searchForm.getAttribute("reseted")){document.searchForm.reset()}};
+sogou_top_words=[];
+
+
+var SugPara = {"bigsize":true,"enableSug":true,"sugType":"wxpub","domain":"w.sugg.sogou.com","productId":"web","sugFormName":"sf","inputid":"upquery","submitId":"stb","suggestRid":"01015002","normalRid":"01019900", oms:1, nofixwidth:1, useParent:1};
+</script>
+<script src="/js/sugg_new_wx.js"></script>
+
+    <script src="/wechat/js/weixin_qrcode.min.js"></script>
+
+<script type="text/javascript">var uigs_para = {
+    "uigs_productid": "webapp",
+    "uigs_cookie"   : "SUID,sct",
+    "uuid"          : "27cc2de1-ed03-4a81-9d6e-c639ccefac76",
+    "query"         : "头发",
+    "weixintype"    : "1",
+    "exp_status"    : "-1",
+    "exp_id"        : "null_0-null_1-null_2-null_3-null_4-null_5-null_6-null_7-null_8-null_9-"
+    ,exp_id_list:'0_0'
+};</script>
+<script>uigs_para&&(uigs_para.noresult=0);</script>
+<script>function call_cloud(a){setTimeout(function(){call_cloud(a)}, 500);}sst.h_e=$s.t();var newpage= 1,passportUserId=""</script>
+<script src="/wechat/js/weixin_pv.min.js"></script>
+<script>weixinpv('weixin_search_pc');if(!$s.ua.ios&&!$s.ua.and){$s.$b(window,["resize"],[fix]);}fix();</script>
+<script type="text/javascript" src="/js/pb.nogz.js?v=1"></script>
+
+
+
+
+<script>$(function(){ var jf=$("[name=em_weixinhao]").eq(0); var html = jf.html();    if(html=="头发"){        jf.html("<em>"+html+"</em>")    }})</script>
+
+<script>weixin_statistic__to_top_type="pc_gzh_search"</script>
+<script src="/wechat/js/scroll2top.min.js"></script>
+</body></html>
+<!--1450424255933-->
+
+
+
+
+
+
+
+<!--zly--><!--weixin-->
+
+";

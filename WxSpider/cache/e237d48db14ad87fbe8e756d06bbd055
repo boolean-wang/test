@@ -1,0 +1,403 @@
+s:95257:"HTTP/1.1 200 OK
+Last-Modified: Fri, 18 Dec 2015 15:33:44 +0800
+Expires: Fri, 18 Dec 2015 15:42:04 +0800
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=500
+Set-Cookie: payforreadsn=EXPIRED; Path=/; Expires=Thu, 17-Dec-2015 07:33:44 GMT; HttpOnly
+Connection: keep-alive
+Content-Length: 94934
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript">
+            window.logs = {
+                pagetime: {}
+            };
+            window.logs.pagetime['html_begin'] = (+new Date());
+        </script>
+        
+<script type="text/javascript"> 
+    var page_begintime = (+new Date());
+
+    var biz = "MjM5ODI3NzUwNA==";
+    var sn = "72b1d22e3eb7fd97cbb71ef4769c7668" || "";
+    var mid = "401066515" || "";
+    var idx = "1" || "" ;
+    
+    //辟谣需求
+    var is_rumor = ""*1;
+    var norumor = ""*1;
+    if (!!is_rumor&&!norumor){
+      if (!document.referrer || document.referrer.indexOf("mp.weixin.qq.com/mp/rumor") == -1){
+        location.href = "http://mp.weixin.qq.com/mp/rumor?action=info&__biz=" + biz + "&mid=" + mid + "&idx=" + idx + "&sn=" + sn + "#wechat_redirect";
+      }
+    }
+
+    //原创需求，需要跳转到中间页
+    /*
+    var copyrightInfo = {
+        display_source : ""*1,
+        nocopyrightsource : ""*1
+    };
+    if (!!copyrightInfo.display_source&&!copyrightInfo.nocopyrightsource){
+      if (!document.referrer || document.referrer.indexOf("mp.weixin.qq.com/mp/reprint") == -1){
+        location.href = "http://mp.weixin.qq.com/mp/reprint?action=info&__biz=" + biz + "&mid=" + mid + "&idx=" + idx + "&sn=" + sn + "#wechat_redirect";
+      }
+    }*/
+</script>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+
+<link rel="dns-prefetch" href="//res.wx.qq.com">
+<link rel="dns-prefetch" href="//mmbiz.qpic.cn">
+<link rel="shortcut icon" type="image/x-icon" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/favicon22c41b.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<script type="text/javascript">
+    String.prototype.html = function(encode) {
+        var replace =["&#39;", "'", "&quot;", '"', "&nbsp;", " ", "&gt;", ">", "&lt;", "<", "&amp;", "&", "&yen;", "¥"];
+        if (encode) {
+            replace.reverse();
+        }
+        for (var i=0,str=this;i< replace.length;i+= 2) {
+             str=str.replace(new RegExp(replace[i],'g'),replace[i+1]);
+        }
+        return str;
+    };
+
+    window.isInWeixinApp = function() {
+        return /MicroMessenger/.test(navigator.userAgent);
+    };
+
+    window.getQueryFromURL = function(url) {
+        url = url || 'http://qq.com/s?a=b#rd'; // 做一层保护，保证URL是合法的
+        var query = url.split('?')[1].split('#')[0].split('&'),
+            params = {};
+        for (var i=0; i<query.length; i++) {
+            var arg = query[i].split('=');
+            params[arg[0]] = arg[1];
+        }
+        if (params['pass_ticket']) {
+        	params['pass_ticket'] = encodeURIComponent(params['pass_ticket'].html(false).html(false).replace(/\s/g,"+"));
+        }
+        return params;
+    };
+
+    (function() {
+	    var params = getQueryFromURL(location.href);
+        window.uin = params['uin'] || '';
+        window.key = params['key'] || '';
+        window.wxtoken = params['wxtoken'] || '';
+        window.pass_ticket = params['pass_ticket'] || '';
+    })();
+
+</script>
+
+        <title>【华德福笔记】幼儿教育的本质--英国教育家Jill老师工作坊记录</title>
+        
+<link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve2a7a3f.css">
+<style>
+     
+    </style>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_pc2a7a3f.css">
+<![endif]-->
+<script type="text/javascript">
+    document.domain = "qq.com";
+</script>
+
+    </head>
+    <body id="activity-detail" class="zh_CN mm_appmsg" ontouchstart="">
+        
+    <script type="text/javascript">
+        var write_sceen_time = (+new Date());
+    </script>
+    
+    <div id="js_cmt_mine" class="discuss_container editing access" style="display:none;">
+        <div class="discuss_container_inner">
+            <h2 class="rich_media_title">【华德福笔记】幼儿教育的本质--英国教育家Jill老师工作坊记录</h2>
+            <span id="log"></span>
+            <div class="frm_textarea_box_wrp">
+                <span class="frm_textarea_box">
+                    <textarea id="js_cmt_input" class="frm_textarea" placeholder="留言将由公众号筛选后显示，对所有人可见。"></textarea>
+                    <div class="emotion_tool">
+                        <span class="emotion_switch" style="display:none;"></span>
+                        <span id="js_emotion_switch" class="pic_emotion_switch_wrp">
+                            <img class="pic_default" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/emotion/icon_emotion_switch.2x278965.png" alt="">
+                            <img class="pic_active" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/emotion/icon_emotion_switch_active.2x278965.png" alt="">
+                        </span>
+                        <div class="emotion_panel" id="js_emotion_panel">
+                            <span class="emotion_panel_arrow_wrp" id="js_emotion_panel_arrow_wrp">
+                                <i class="emotion_panel_arrow arrow_out"></i>
+                                <i class="emotion_panel_arrow arrow_in"></i>
+                            </span>
+                            <div class="emotion_list_wrp" id="js_slide_wrapper">
+                                
+                                
+                            </div>
+                            <ul class="emotion_navs" id="js_navbar">
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </span>
+            </div>
+            <div class="discuss_btn_wrp"><a id="js_cmt_submit" class="btn btn_primary btn_discuss btn_disabled" href="javascript:;">提交</a></div>
+            <div class="discuss_list_wrp" style="display:none">
+                <div class="rich_tips with_line title_tips discuss_title_line">
+                    <span class="tips">我的留言</span>
+                </div>
+                <ul class="discuss_list" id="js_cmt_mylist"></ul>
+            </div>
+            <div class="rich_tips tips_global loading_tips" id="js_mycmt_loading">
+                <img src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/common/icon_loading_white2805ea.gif" class="rich_icon icon_loading_white" alt="">
+                <span class="tips">加载中</span>
+            </div>
+            <div class="wx_poptips" id="js_cmt_toast" style="display:none;">
+                <img alt="" class="icon_toast" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAABqCAYAAABUIcSXAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoyMTUxMzkxZS1jYWVhLTRmZTMtYTY2NS0xNTRkNDJiOGQyMWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTA3QzM2RTg3N0UwMTFFNEIzQURGMTQzNzQzMDAxQTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTA3QzM2RTc3N0UwMTFFNEIzQURGMTQzNzQzMDAxQTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NWMyOGVjZTMtNzllZS00ODlhLWIxZTYtYzNmM2RjNzg2YjI2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjIxNTEzOTFlLWNhZWEtNGZlMy1hNjY1LTE1NGQ0MmI4ZDIxYiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pmvxj1gAAAVrSURBVHja7J15rF1TFMbXk74q1ZKHGlMkJVIhIgg1FH+YEpEQJCKmGBpThRoSs5jVVNrSQUvEEENIhGiiNf9BiERICCFIRbUiDa2qvudbOetF3Tzv7XWGffa55/uS7593977n3vO7e5+199p7v56BgQGh0tcmvAUERREUQVEERREUQVEERREUQVEERREUQVEERREUQVEERREUQVEERVAUQVEERVAUQbVYk+HdvZVG8b5F0xj4RvhouB+eCy8KrdzDJc1RtAX8ILxvx98V1GyCSkN98Cx4z/95/Wn4fj6j6tUEeN4wkFSnw1MJqj5NhBfAuwaUHREUg4lqNMmePVsHll/HFhVfe1t3FwpJI8DXCCquDrCWNN4B6Tb4M3Z98aTPmTvh0YHl18PXw29yZiKejoPvcUD6E74yFBJbVDk6Bb7K8aP/Hb4c/tRzEYIqprPhSxzlf4Uvhb/0Xoig8qnHAJ3lqPMzfDH8XZ4LEpRf2sVdA5/sqPO9Qfop70UJyn+/boaPddT5yrq7VUUvTIVJI7q74MMddXR8NB1eXcYvhBpZm0s2w72/o86HFoKvLau/pYaXzjLMdUJ6y0LwtWV9CIIaXtvA8+G9HHV03u5q+K+yH47U0NoRngPv7KjzHDwTLj0bS1BDazfJJlcnOOostC6ysnCT+q80G/sIvFVgeW09D8FPVT0uoP7VfvAD8NjA8pqmuAN+OcYAjso0RbIZ8DGB5TVNcRO8JMaHY9SXSdfa3eeANJimWBLrA7JFiZwIXye+NMUV8CcxP2SRFjXefok7NRjSGZJlWUPvw2/wtNiQirSoXWyMsR28wR7AzzYM0oXw+Y7yK+CLJGeaoqjyrJSdZJD6Ov4+z5y6NJc0Az7NUecHydIUy+v60KNyQHoM3nKI1y7YCFiq0i7uBvgER52vDdKqWn9djhY1Dn4G3n6Ecqm2rF74dvgoR53S0hQxW9RJAZAGW5bSn58QJA27dQ7uIEedjywEX5NKVxCqsY6y+qA+LxFI4+yZ6oH0trWkNan80jygtIUsc5SflgAsDXgehfdx1KkkTRE76tN+Xue2jnTU0Ru1oIbvpt30bBtKhOp5yaaRkts0lic8V1i6dPcIRx2d/l8Y8XtNNEg7OOo8bl1kmmOKnDsO88CaYzejau0hWZqiL7C83oCH4SeTHvwV2BqqsHRVztSEYOmWF80NeXZT6Hd4KflResE9vCnBOlCyGfDNAstHTVPUDWoQ1t3iW+9WNizvlhfd4aerXd+ThqiMfNR6+9LvOOro5OY5JX2H4+F7HZD+kGzlamMgldWiirQsjcwWFbjmqZJteekJLK9pisvgL6RhKvuciZiwzrWWGapfrPy30kBVcSBIrw0aD3PU0XB6cehntq7rTMf7/2iQlktDVdXJLXlg6VjmiYBn6rWSTRCH6hvJ0hQrpcGq8oidsmHpTP8t8DGO9/vcWt9qabiqPgup1yKyQwvC2tSefZ73SSpNkUJ4PlLorlHZ+446nc8f3fIyywlJhwrTuwVSjBa1ccvSxN0hjjoK5xVrYZMd9V6XbFfgBukixTwGLg8sDam3dZR/wZ6L/dJlin1en8LS+bgpFbz3Ygvzu1J1HKxYNqxGpCmaCEo12rrBorD6LRp8UbpcdR5VWhTW35KlKd6QFqjuM2XzwlpnMxTvSkuUwuG/Xlg6NtPjbT6WFimF/VG6LEvXgn8QGDjMbBukVECFwhpoS+CQatfX2Q1q6H7wENHdrfCr0lKleEB9JyxNneus+VJpsVL9TwI6W65LovWIGl3KtVJaLv7LBwYTFEERFEVQFEERFEVQFEERFEVQFEERFEVQFEERFEVQFEERFFWq/hFgADUMN4RzT6/OAAAAAElFTkSuQmCC">
+                <p class="toast_content">已留言</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="js_article" class="rich_media">
+        
+        <div id="js_top_ad_area" class="top_banner">
+ 
+        </div>
+                
+
+        <div class="rich_media_inner">
+            <div id="page-content">
+                <div id="img-content" class="rich_media_area_primary">
+                    <h2 class="rich_media_title" id="activity-name">
+                        【华德福笔记】幼儿教育的本质--英国教育家Jill老师工作坊记录 
+                    </h2>
+                    <div class="rich_media_meta_list">
+                        						                        <em id="post-date" class="rich_media_meta rich_media_meta_text">2015-12-16</em>
+
+                                                <a class="rich_media_meta rich_media_meta_link rich_media_meta_nickname" href="javascript:void(0);" id="post-user">华德福</a>
+                        <span class="rich_media_meta rich_media_meta_text rich_media_meta_nickname">华德福</span>
+
+                        <div id="js_profile_qrcode" class="profile_container" style="display:none;">
+                            <div class="profile_inner">
+                                <strong class="profile_nickname">华德福</strong>
+                                <img class="profile_avatar" id="js_profile_qrcode_img" src="" alt="">
+
+                                <p class="profile_meta">
+                                <label class="profile_meta_label">微信号</label>
+                                <span class="profile_meta_value">dearmychild</span>
+                                </p>
+
+                                <p class="profile_meta">
+                                <label class="profile_meta_label">功能介绍</label>
+                                <span class="profile_meta_value">关注华德福教育，推广育儿知识，父母心灵成长，为孩子创建健康的成长环境！</span>
+                                </p>
+                                
+                            </div>
+                            <span class="profile_arrow_wrp" id="js_profile_arrow_wrp">
+                                <i class="profile_arrow arrow_out"></i>
+                                <i class="profile_arrow arrow_in"></i>
+                            </span>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                                                            
+                                                            
+                    
+                    <div class="rich_media_content " id="js_content">
+                        
+                        <h1 style="white-space: normal;"><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; word-wrap: normal; min-height: 1.5em; color: rgb(62, 62, 62); font-size: 15px; word-break: normal; line-height: 2em; font-family: 宋体; background-color: rgb(255, 255, 255); box-sizing: border-box !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; font-size: medium; white-space: pre-wrap; color: rgb(51, 51, 51); font-family: 微软雅黑; line-height: 20px; text-align: justify; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(32, 88, 103); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><img data-src="http://mmbiz.qpic.cn/mmbiz/wUBucvARnlQnLb2Ql5zic9PXFAXex788aZ9svG42ve4BbbicQCxzKuF5jgIHDcW2Vdnfo9ic7uV25XdH6vkMy2sHg/0" data-ratio="0.1" data-w="500" width="auto" data-src="http://mmbiz.qpic.cn/mmbiz/wUBucvARnlQnLb2Ql5zic9PXFAXex788aZ9svG42ve4BbbicQCxzKuF5jgIHDcW2Vdnfo9ic7uV25XdH6vkMy2sHg/0?tp=webp&amp;wxfrom=5" style="margin: 0px; padding: 0px; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;"  /></strong></span></strong><br style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"  /></p></h1><h2><p style="white-space: pre-wrap; margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 25.6000003814697px; color: rgb(102, 102, 102); box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px 8px 0px 0px; padding: 4px 10px; max-width: 100%; color: rgb(255, 255, 255); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; background-color: rgb(1, 165, 191); box-sizing: border-box !important; word-wrap: break-word !important;">Huadefu</span></strong><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 25.6000003814697px; color: rgb(0, 176, 80); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">ID:</strong></span><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: arial, helvetica, sans-serif; font-size: 12px; line-height: 25.6000003814697px; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(192, 0, 0); box-sizing: border-box !important; word-wrap: break-word !important;"> </span><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(12, 12, 12); box-sizing: border-box !important; word-wrap: break-word !important;">dearmychild</span></strong></span><span style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><br style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"  /></span></p><p style="white-space: pre-wrap; margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(0, 176, 80); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; font-size: 15.5555562973022px; line-height: 28.4444465637207px; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;">亲爱的孩子，这个世上，没有人比我更爱你</span></strong>！</span></strong></span></p><p style="white-space: pre-wrap; margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(0, 176, 80); font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;"></span><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(192, 80, 77); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;"><img data-src="http://mmbiz.qpic.cn/mmbiz/HeaqHoWG8YyXhlzTiaQdvgPUAXEOeEqBxt10YgMVqnibFrCS0vsgic3v0FlghJKP8xBHBibncp14VA9KicfBA3RtOxQ/0" data-ratio="0.0513595166163142" data-w="331" width="331px" data-src="http://mmbiz.qpic.cn/mmbiz/HeaqHoWG8YyXhlzTiaQdvgPUAXEOeEqBxt10YgMVqnibFrCS0vsgic3v0FlghJKP8xBHBibncp14VA9KicfBA3RtOxQ/0?tp=webp&amp;wxfrom=5" style="margin: 0px; padding: 0px; color: rgb(62, 62, 62); font-size: 15.5555562973022px; line-height: 28.4444465637207px; border: 0px; box-sizing: border-box !important; word-wrap: break-word !important; width: 331px !important; visibility: visible !important;"  /> </span></strong></span><span style="font-family: 宋体; line-height: 22.5px; text-align: center; font-size: 16px;"> </span></p><p><span style="font-size: 14px; line-height: 22.5px; white-space: pre-wrap;"><span style="font-family:宋体">    </span></span><span style="font-size: 14px;">在生命的头七年，孩子是在给他们的身体建地基，之后才是砌墙、建屋顶，当大家建房子的时候，要保证地基是坚固的。建造地基是不能着急的事情，不能催促孩子，否则你的房子就会不牢固。</span></p><p><span style="font-size: 14px;">   现在大家都觉得作为家长是一个非常难的事情，因为有太多的选择，给孩子吃什么东西、给孩子什么样的教育、孩子需要什么样的纪律和教训，家长需要持续面对这么多的问题。孩子在不断的变化，家长的选择也不断的变化。幸运的是，我们的孩子也没有期待我们是完美的家长，他们只是期待我们会做得更好。</span></p><p><span style="font-size: 14px;">     我们并不知道未来40年会发生什么，回想前面20年，我们很难预计40年后发生什么，未来就是我们的孩子在主导世界，我们如何指导孩子来面对一个我们都不知道的世界？这是教育者真正要面对的问题。而不是我们目前大多数家长所认为的，以我们当前的价值观和方法来引导孩子。</span></p><p><span style="color: rgb(0, 176, 80);"><strong><span style="font-size: 14px;">一、0-7岁儿童发展的任务</span></strong></span></p><p><strong><span style="font-size: 14px;">1、发展物质身体、学习如何使用身体</span></strong></p><p><span style="font-size: 14px;">    一个刚出生的婴儿和一个7岁的孩子是多么的不同。7岁的孩子可以做很多复杂的动作，而刚出生的婴儿还没有完全适应自己的身体，非常无助，所以<span style="font-size: 14px; color: rgb(227, 108, 9);"><span style="font-size: 14px;">头七年的一个重要任务是从一个无助的小婴儿变成一个敏捷的、可以做很多事情的人</span>。给孩子时间和空间，去探索如何使用自己的身体。</span></span></p><p><span style="font-size: 14px;">2、理解这个世界</span></p><p><span style="font-size: 14px;">  <span style="font-size: 14px; color: rgb(227, 108, 9);"> 孩子刚来到这个世界，没有任何设定、没有任何期待，他们是完全开放的，接受来到他们面前的经验。</span>作为成人，我们可以关闭我们不喜欢的东西，但是孩子没有这样的自我保护意识，小孩子对这个世界完全开放，吸收环境中的一切，甚至他们都没有界限的感觉，他们是与这个世界合为一体的。他们非常喜欢模仿，他们完全投入于周围的环境，假如他们处于一个噪音、混乱的环境中，他们自己也会变得混乱，他们没有能力在这样的环境中保持冷静的自己。给孩子创造一个好的环境是成人的艰巨的任务。华德福的创始人鲁道夫</span></p><p><span style="font-size: 14px;">.史代纳认为：孩子就像一袋面粉，你用什么在上面印，就会留下什么，你用拳头，就会留下拳头的痕迹。<span style="font-size: 14px; color: rgb(227, 108, 9);">儿童是环境塑造出来的，这对他们的身体、情感都有影响。在这个过程中，他们的物理身体被塑造了，同时他们的精神也被塑造了。</span></span></p><p><br  /></p><p><strong><span style="font-size: 14px; color: rgb(0, 176, 80);">二、现代儿童教育面临的挑战</span></strong></p><p><span style="font-size: 14px;"><img data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/QKVdtiad2WP0eL5myga3fyOibendVibZxsZRhezv0MZbIolwap02fHavFia9VdwUiaPmMOWg7licXPYw9TI6lHyrvU7g/0?wx_fmt=jpeg" data-ratio="0.7489795918367347" data-w="490"  /><br  />现代生活——城市化、机械化、电器化</span></p><p><span style="font-size: 14px; color: rgb(255, 0, 0);">3L——限制</span></p><p><span style="font-size: 14px; color: rgb(255, 0, 0);">Limitations、懒惰</span></p><p><span style="font-size: 14px; color: rgb(255, 0, 0);">Laziness、谎言</span></p><p><span style="font-size: 14px;">Lies，现在的孩子被这三样东西包围了。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">限制</span></p><p><span style="font-size: 14px;">    现在孩子，刚刚拥有一个身体，他们就被绑在安全座椅上，现在很多孩子有很长的时间在安全座椅上、在小推车里，很多时候他们被安全带束缚住了。我们住在城市里，周围有很多人，为了保护孩子，我们要远离陌生人，我们给孩子很多限制。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">懒惰</span></p><p><span style="font-size: 14px;">    现在有很多机器，有些是可以理解的，例如打蛋器，孩子可以理解打蛋器是手的一个外延，但是很多机器象个迷一样，孩子不知道机器是怎么样把事情完成的。洗衣机对孩子来说就是一个盒子，按键后衣服就洗干净了。现在的孩子已经习惯于看到这些机器来帮助他们生活，孩子会吸收到这样的信息：我们是不需要我们自己的物理身体，事情就能完成的，我们的身体可以懒惰。他们没有受到鼓励去更好地的使用自己的身体。当他们终于学会了用脚走路，但没有用了，因为有车子；他们终于学会用手了，但家长说不需要用了，我们可以用机器做事。对于孩子来说，突然发现学会运用自己的身体没有什么意义了，这对孩子来说是很迷惑的事。有机器是很好的事情，我不是反对机器，但是我们需要考虑到机器对小孩子的影响是什么，<span style="font-size: 14px; color: rgb(227, 108, 9);">我们要告诉孩子能够使用身体是一件多么棒的事情。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">谎言</span></p><p><span style="font-size: 14px;">    虚拟世界发生的事情，全部都可以算是谎言。在DVD里看到大象，其实看到的并不是真实的大象。在英国，供暖就是按个按钮。孩子们用壁炉的火取暖的时候，他们知道如何得到热量，他们知道是用木头来取暖。而现在的供暖系统，孩子们完全不明白这中间发生了什么事情，这比点火要容易、干净很多，只是打开开关，完全没有给到孩子真实的体验，他们没有体会到暖气是需要木头做出牺牲才可以得到的。成人知道能源是需要转化的，但孩子并不明白。我不是说我们要隔绝这样的生活方式，但我认为让孩子有真实的经验是非常重要的，<span style="font-size: 14px; color: rgb(227, 108, 9);">我们可以更好的帮助孩子来平衡生活中虚拟的经验和真实的经验，成人可以做一些更好的事情来打造孩子的基石。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">    <span style="font-size: 14px; color: rgb(0, 176, 80);">如果你想让你的孩子了解小鸡，你应该让他们亲手去抱小鸡，他们会发现小鸡很轻，与抱起玩偶的感觉是不同的，而且抱小鸡是需要技巧的，你需要抓住小鸡的翅膀，否则一下子就跑了。</span>小鸡身上每一个部分都是感觉不同的，你也可以闻到它的味道。这才是一个真实的对动物的认识，这对孩子来说与在电视里看到动物是完全不同的，是多感官的运用。包括音乐，真实感受人的声音和乐器，与电子音乐是完全不同的。<span style="font-size: 14px; color: rgb(227, 108, 9);">所以电脑和电脑所控制的电子产品给孩子的是比较肤浅的东西，孩子失去了去体验真实、美好经验的机会。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">     这个世界的很多问题是因为太多的接触虚拟世界造成的，孩子丧失了与真实世界连接的机会。有证据表明只听复读机，孩子是无法学习到语言的，学习语言必须有人和他们真实地对话。通过虚拟世界学习东西是很有限的，它只是对你的头脑起作用。</span></p><p><span style="font-size: 14px;">     现在的世界很多都没有小的社区的概念，如果我们生活在500年前，我们会和一小部分人经常地生活在一起，99%的人对自己生活的土地非常了解，知道谁是做陶器的，谁是织布的。但现在我们基本不知道东西是从哪里生产出来的。孩子只知道那些照顾他们的人，不了解其他大部分人在他们生活中的意义和目的，所以很难信任那些人，你可能不了解你的邻居，原来对于孩子很重要的关系，现在都没有了，对小朋友来说，他们见到的世界就是各种各样的人、事、物，但他们无法了解它们，他们无法与之建立联系。</span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">三、如何更好的支持孩子？</span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);"><br  /></span></p><p><span style="font-size: 14px;">1、节律、重复Repetition、仪式Ritual、关照care；</span></p><p><span style="font-size: 14px;">2、玩耍的空间和时间；</span></p><p><span style="font-size: 14px;">3、为你的孩子做实际的决定 世界是美好的；</span></p><p><span style="font-size: 14px;">4、把孩子纳入日常生活中；</span></p><p><span style="font-size: 14px;">5、观察你孩子的问题，把问题带入睡眠。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(255, 0, 0);">中心点：世界是美好的</span></p><p><span style="font-size: 14px;">     孩子是完全开放的，成人需要是保护的姿态，象用一块布把他们包围起来，但是我们希望孩子接触到真实的世界，我们可以打开一点点。如果孩子认为这个世界是美好的、善的，他们的基石是打的非常好的。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">    华德福不是让孩子永远呆在童话世界、仙境，<strong><span style="font-size: 14px; color: rgb(255, 0, 0);">华德福的理念是在合适的时间把合适的东西带给孩子</span></strong>，当孩子还在图像化的思维时，偶戏就是他们的生活内容。到了11岁，他们又是用另一种方式认识世界，到了16、17岁，孩子才开始想自己去探索世界，自己来决定观点，华德福认为在幼年的时候为孩子保存了将来认识世界的机会，在7岁前，应该尽量让孩子的生活简单，虽然这很难，但是尽量保持简单。<span style="font-size: 14px; color: rgb(0, 176, 80);">当孩子的生活简单，很多事情是可以预料的，孩子才更有安全感，才能为将来探索世界做好准备。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">    <span style="font-size: 14px; color: rgb(227, 108, 9);">只有感觉安全的孩子，才有强大的驱动力去发掘好奇心，发现世界的美好。</span>虽然我们成人知道这个世界不是那么好，但是如果我们能让孩子在他小的时候感觉这是一个很美好的世界，当他们长大后，他们会以更开放的心态去发现世界的美好，他们会想要通过自己的努力让世界变得更美好，这就是我们为孩子将来做的准备，就是让孩子感觉到这个世界是一个美好的地方，应该让我们的孩子有力量、有热情把这个世界变得更美好。我们知道这个世界是非常复杂的，我们更应该让我们的孩子具有可塑性，我们需要帮助孩子去发掘内在的创造力，他们必须有灵活的头脑去面对这个复杂的世界，实际上，孩子本来就是很灵活、可塑的。有一个很有趣的心理实验，一个孩子和父母，用一个小东西，让他们说出用途，小孩子的说出的用途要比成人多，孩子的年纪越大，说出的用途越少。孩子是很有创造力的，我们需要保存孩子的创造力。</span></p><p><span style="font-size: 14px;">    一个蜘蛛的手指谣，小蜘蛛爬水管，一下雨就把小蜘蛛冲下来了，等到太阳出来的，小蜘蛛才能爬上水管。通过这个手指谣，孩子们学习到了如何克服困难，而不是失败了就不再爬了。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">1、（3R）节律Rhythm，重复Repetition，仪式Ritual&amp; 照顾care</span></p><p><span style="font-size: 14px;">   <span style="font-size: 14px; color: rgb(227, 108, 9);">小孩子天生喜欢重复的，有节律的生活，不喜欢刺激，节律可以让家庭生活变得更简单，当他们知道接下来会发生什么事情，他们会更有安全感。</span>并不是说每天的生活不能做改变，就像我们的呼吸，并不是一成不变的，你做不同的运动，会有不同的节律。所有的节律都有一个收缩的过程和放松的过程。对孩子来说，他们需要时间来放松、呼出，但是不能太久，这样他们会没有办法收回来。当他们过的是重复、有节律的生活，不只是他们的头脑，他们的身体会知道接下来会发生什么，因为他们不需要思考接下来发生什么，这样是给他们更大的自由去探索。我们不要催促孩子，而是让孩子过有节律的生活。</span></p><p><span style="font-size: 14px;">    3岁的小朋友喜欢一遍一遍的听同一个故事，但是大人不喜欢重复讲一个故事，<span style="font-size: 14px; color: rgb(227, 108, 9);">有时对于成人来说是很难意识到韵律给他们的安全感，我们要经常提醒自己，小孩子的任务就是认识这个世界，他们在寻找连贯、一致的生活，有韵律的生活对他们很有帮助。</span>平衡界限与自由也是一种韵律。我们需要经常地控制平衡，呼出和吸入可以平缓地过度。作为成人也是一样，如果我们的工作和生活的比例是和谐的，我们也会感觉很好，其实有节律的呼吸是不累的，事实上是变化才会消耗我们的能量，</span></p><p><span style="font-size: 14px;">    当孩子们在过着有节律的生活，他们是非常健康的，他们把能量用于发展自己的身体，所以对于小孩子来说，有节律的生活就是健康的生活。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">游戏：</span></p><p><span style="font-size: 14px;">1、收缩、扩张</span></p><p><span style="font-size: 14px;">2、传沙包</span></p><p><span style="font-size: 14px;">（1）一个一个传：不需要思考。</span></p><p><span style="font-size: 14px;">（2）间隔2个、3个传：需要思考。</span></p><p><span style="font-size: 14px;">（3）乱传：很紧张，不知道何时会有沙包飞来。</span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(227, 108, 9);">想象一个场景：每天的事情都按顺序发生，每天、每周都有节奏。</span><span style="font-size: 14px;">每天结束，妈妈都会象往常一样来接我，可能会去公园玩一会儿，可能会去面包店买东西，然后吃晚饭、散步或去找朋友、洗澡、讲故事、刷牙，睡前每天唱同样的歌。这是非常有节奏的生活，小孩的身体也会知道接下来会发生什么事情。你总是那个时间吃饭的时候，你的胃也会准备好。如果每天都是同样的时间准备睡觉，身体也会知道该睡觉了。大家可以想象这样的生活对孩子来说是多么安全。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(227, 108, 9);">另一个家庭场景，大家都起晚了，衣服也找不到了，因为没有早餐，只能把昨天的吃的找出来吃，因为要迟到了，所以只能赶快吃，找不到鞋子，这就像刚才乱扔沙包的感觉。</span><span style="font-size: 14px;">如果成人没有想好早上要发生什么事情，小孩子也没法准备好。有的小孩子可能反应比较快，但很多小孩子需要花时间去适应。有个谚语：有的人象云雀一样起得早，有的人象猫头鹰一样晚睡。很多小朋友喜欢早起。如果放假出去玩，回到家会感觉很轻松，因为又可以过有规律的生活了。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">    可能我们没有办法做到有节律的生活，对小孩子来说每天什么时候起床、吃饭、睡觉是最重要的，尤其是外出度假时也安排好这3个时间。有的家长喜欢在睡前点蜡烛，孩子睡前看到的是蜡烛的光，而不是灯光，或者唱一首歌曲，以这样的方式来结束孩子的一天。我们可以形成一个规律，在吃饭前拉着手感恩我们的食物。<span style="font-size: 14px; color: rgb(227, 108, 9);">这样规律的生活会很放松，这是很健康的一种生活，如果我们不能放松，我们是不能学习的。节律会帮助小孩子建立将来面对生活的能力。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px;">     华德福很重视节日，节日就像一些节点，象语言一样，需要标点，才能有意义，节日也使得一年中的日子更有意义。孩子一年又一年的重复庆祝同样的节日，他们会觉得很高兴。他们会把那些装饰品从箱子里拿出来，好像看到了老朋友，非常开心。有节奏的生活也不是那么乏味，每日、每周、每月、四季、每年。<span style="font-size: 14px; color: rgb(227, 108, 9);">大家试着建立自己家庭的规律，有节奏的生活可以让家庭生活变得更容易。除了音乐、诗歌也是有节律的。</span></span></p><p><span style="font-size: 14px;"><br  /></span></p><p><strong><span style="font-size: 14px; color: rgb(0, 176, 80);">2、玩耍的时间和空间</span></strong></p><p><span style="font-size: 14px;">     不是成人干涉的玩耍，成人可以引导，但孩子们一旦开始自己玩了，成人就要退出。<span style="font-size: 14px; color: rgb(227, 108, 9);">玩耍对孩子来说是非常严肃认真的工作，他们玩的时候会很开心，他们非常认真地在工作，对成人来说工作是外界交给的任务，对孩子来说，是孩子内在的需要。</span></span></p><p><span style="font-size: 14px;">     小小的孩子不需要玩具，他们可以玩自己的手。你带孩子到一个地方，你可能觉得没有什么好玩的，孩子会自己找东西玩起来，他们可以用所有的东西来制作玩具。现在对于玩耍的危险是有太多的玩具了，很多智力开发的玩具，有让孩子学习到形状的玩具，但是实际上，你如果想让孩子学习形状，可以让他们看花，如果想学习打结，可以给他们一双鞋子。如果你给孩子一个玩具电话，有按钮、有声光，其实没有什么想象力可以发挥了，在幼儿园我看到过很多电话，有的是石头，有的是木头。</span></p><p><br  /></p><p><span style="font-size: 14px;">    想象力象一块肌肉，你要经常去锻炼它，这种能力就是长大后成为有创造力的来源。在玩耍中，他们学会了尊重。在自由玩耍中，孩子试图消化他们获得的信息。对7岁的前的孩子，他们自己就把自己的教学大纲制作出来了。<span style="font-size: 14px; color: rgb(227, 108, 9);">对3岁-6岁的孩子，都可以给很简单的玩具，不需要太复杂，但是他们用这些东西的方法是不一样的。</span></span></p><p><span style="font-size: 14px;">     3岁的孩子可能拿一块木头当电话，6岁的孩子可能会说：“我们都是警察，我们都需要电话”。6岁的孩子出现了思考、计划、安排。现在这种深层次地玩耍是受到威胁的。很多家长让孩子很早的阅读、计算，剥夺了孩子的玩耍，回到家，又会上很多课，运动、语言等。孩子需要时间和空间，和简单的东西呆在一起，能够和自然呆在一起是很好的事情，大自然是一个无穷无尽的孩子们玩耍的地方。</span></p><p><span style="font-size: 14px;">     在玩耍中，孩子学习到了很多东西，他们会把自己弄得很脏，有的孩子玩的很过头，可能会受伤，孩子们受伤是他们体验的一部分，有时他们会继续玩游戏，而觉得受伤是小事。成人有时也会把工作看得比自己重要。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">3、为你的孩子做实际的决定</span></p><p><span style="font-size: 14px;">    成人需要平衡自由和界限，对孩子来说，这个身体是很新的，而成人更有经验，孩子会参照家长的行为，成人更知道孩子需要穿什么衣服、什么时候休息，这不是说我们为孩子做所有的决定，但是有一些决定是你来做的，有些是孩子来做的。<span style="font-size: 14px; color: rgb(255, 0, 0);">孩子永远都在试探界限在哪里，用冲破的方式。</span></span><span style="font-size: 14px; background-color: rgb(165, 165, 165);">【想要了解界限可以关注平台后回复数字“23”】</span><span style="font-size: 14px;"><span style="font-size: 14px; color: rgb(227, 108, 9);">妈妈说“周末吃甜点”，也许孩子天天会问，但是你可以告诉她“我们家就是周末吃甜点”，其实孩子不喜欢如果他们想冲破界限，界限就没有了，孩子希望父母言行一致、说到做到，大家应该在说之前先想好，这才是最重要的。</span>我们不希望孩子花很多精力在思考，成人应该思考什么对孩子是好的。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">4、把孩子纳入日常生活中。</span></p><p><span style="font-size: 14px;">     孩子非常喜欢做事情，非常想要通过双手去改变周围的环境，这对他们的自我意识是非常重要的，他们能看到自己是可以改变环境的，<span style="font-size: 14px; color: rgb(227, 108, 9);">我们要提供机会让他们体会到自己有这样的能力</span>，例如：自己穿衣服，自己为自己做事情。可以参与家庭日常事务，例如：摆餐桌，这是非常好的学习过程，需要每天都用同样的方式重复去做，可以学到很多，要知道有几个人、摆几套。开始时是你在摆，孩子在看，孩子会想帮助你，等到他6岁的时候，你可以说“你可以来摆餐桌”，他们会很自豪。例如洗手，孩子每天都需要洗很多次，但是怎么去洗手呢？你用很多言语去说，效果不是很好，因为语言从耳边飘过去了，你可以和孩子一起洗手，做示范，甚至可以编一首洗手的歌。这就是把孩子能做到的事情纳入日常生活。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">5、观察你孩子的问题，把问题带入睡眠</span></p><p><span style="font-size: 14px;">    问题很多，我们有时也很难找出正确的、答案。俄国有句谚语：清晨比夜晚更有智慧。晚上是问问题的时间，早上是回答问题的时间。晚上睡觉前带着问题入睡，清晨时通常都会有一些答案。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">四、讲故事</span></p><p><span style="font-size: 14px;">     <span style="font-size: 14px; color: rgb(227, 108, 9);">故事是一个礼物，我们把礼物放在地上，让孩子自己去捡起它。</span>在幼儿园讲故事，例如描述一条龙，如果戏剧化地去讲，绘声绘色地描述，孩子会感觉很恐惧。如果我轻轻地、平静地去描述一条龙，不是用我的图景去讲，我们就是把礼物放在地上。孩子想象力的肌肉开始动了，不同的孩子想象出不同的龙，因为老师没有把自己的想象加进入，孩子可以自己选择去把礼物捡起来。对年幼的2岁半的孩子，我们会用很多歌谣的游戏、肢体的游戏、绕口令。我们可以和孩子说一些他们可以制造出图像的事情。对4岁的孩子，房子和花园、家和自然的故事。这些故事是每天在家里发生的事情，或者是在自然发生的事情，例如：蝴蝶。对3-4岁的孩子，故事里可能有些不太好的事情，例如什么东西坏了、丢了，但是最后是以一个很好的方式解决，每个故事需要有一个圆满的结局（happyending</span><span style="font-size: 14px;">）。到了4-6岁的时候，他们自己会注意到有一些困难的事情，5、6岁时，他们会自己觉察到自己的消极情绪。当他们已经建立了一些安全感，我们可以加入一些想象的故事，对于5、6岁的孩子，故事可以有王子、公主、白马可以长出翅膀飞。每个文化里都有自己的神话故事，在7岁以后，想象性的神话故事就可以带给孩子了。<span style="font-size: 14px; font-weight: bold;  background-color: rgb(165, 165, 165);">【想要了解适合不同年龄的孩子童话和故事，可以关注平台后回复数字“13”】</span></span></p><p><span style="font-size: 14px;">    <span style="font-size: 14px; color: rgb(227, 108, 9);">图景化的语言对孩子来说很重要</span>，例如，孩子把鞋子踢掉，你可以说：姐姐和弟弟要呆在一起，而不是说：把鞋子摆好。有画面感的语言孩子更能接受。为什么要收拾玩具，因为玩具累了，要回家了，这是孩子可以理解的经验。</span></p><p><span style="font-size: 14px;">    <span style="font-size: 14px; color: rgb(227, 108, 9);">只给孩子讲一次故事，孩子得到的是很肤浅的，重复地讲故事，孩子会吸收到故事真正要传达的东西。</span></span></p><p><br  /></p><p><span style="font-size: 14px;">     <span style="font-size: 14px; color: rgb(112, 48, 160);">偶戏：甜粥（格林童话）。</span>故事里她们遇到了一些困难，最后困难又被成功化解了。我们可以问自己：这样的故事意味着什么？孩子不会问，他们只是吸收，他们不会去分析故事。如果孩子问问题，我们用图像化的语言。我们不要问孩子：这个故事是什么意思？作为成人我们会去分析这个故事。故事中的罐子就象我们的内在生命，对于4-6岁的孩子，他们能够感受到自己内在情绪的体验，例如悲伤、害怕，在这之前，孩子可能只是感受到悲伤，他们自己就是悲伤，但现在他可以做一个区分，把自己和情绪分离。这个练习可以帮助我们以后更好地与情绪分开。故事里的小罐子被情绪装满了，有情绪是没有问题的，我们要记得停止情绪的咒语，否则就像甜粥一样流得到处都是，这就给我们一个很好的启示，要适时地说“停下来吧，小罐子，停下来吧”。我可能会把这个故事讲一周或更长时间。有时，一个6岁的孩子可能象一个2岁的小孩子一样发脾气，我会平静地说“停下来吧，小罐子，停下来吧”，这就是如何用故事与孩子工作。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">五、十二感官——生命觉</span></p><p><span style="font-size: 14px;">    我们问：how are you？听起来是在问身体健康，其实是在问生命感觉怎么样？<span style="font-size: 14px; color: rgb(227, 108, 9);">生命觉是非常喜欢有节律的生活，当你做长途旅行，整个节律都被打乱了，需要花好几天的时间去调整过来。小朋友都有这些感觉，但他们很难说出来。如果他们的生命觉受到了干扰，他们只会哭，希望有人来关怀。</span>通常最有效的是，感觉被抱起来，被拥抱。小孩子说不清楚是哪里不舒服，可能会揉着肚子说头疼，孩子有生命觉，但还没有发育好。十二感官不是一出生就发育好的，需要一个过程。小孩子是投入于环境之中的，环境对孩子感觉器官的发展是有影响的。我们要让孩子发展得更加健康。如果他们的感官没有发育好，就好像看这个世界的窗子都是模糊的。孩子是通过行为展现出他们的生命感觉，我们通过他们的行为就可以觉察到孩子是否不对劲。老师和家长需要知道如何观察孩子的行为。不同的文化对健康的定义是不同的。我们的生命历程也会影响我们对健康的定义。很难有一个明确的定义什么是健康的。孩子需要时间，需要一种温柔的方式被对待。刚才我们说到用温和的方式给孩子讲故事、灵活可变的玩具、画画（不是具象的）。</span></p><p><span style="font-size: 14px;">   <span style="font-size: 14px; color: rgb(0, 176, 80);"> 华德福的宗旨就是用温和的方式对待孩子。史代纳说，孩子就象迷一样，每时每刻的答案都是不一样的，孩子是灵活可变的，我们需要给他们时间。</span></span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(227, 108, 9);">食物</span></p><p><span style="font-size: 14px;">     现在有太多理论，孩子应该吃什么，不应该吃什么。小孩子的消化系统是非常脆弱的，母乳就是最好的食物，容易消化，然后变成自己的。我们总是在寻找最接近母乳的食物，母乳是与孩子有密切联系的，如果吃其他的食物，我们需要慢慢让他们尝试，我们要选择最好的食物。</span></p><p><span style="font-size: 14px;">     植物性的食物要比动物性的食物更适合孩子，植物有生长的力量，而没有那么多情绪，动物虽然简单但是还是有情绪的，这对孩子来说是负担，他们如何要消化既有生长的力量、又有情绪的力量的东西，会比较困难。</span></p><p><span style="font-size: 14px;">     吃动物性食物会消耗更多的能量，而减少用于自身成长的能量。盐来自于矿物、大地，对孩子来说更有距离，对孩子的消化系统是比较大的冲击。大人需要一定量的盐，但孩子是不太需要盐的。就连吃饭都是一个复杂的过程，我们不希望孩子用太多的能量来消化。</span></p><p><span style="font-size: 14px;">睡眠</span></p><p><span style="font-size: 14px;">     <span style="font-size: 14px; color: rgb(227, 108, 9);">我们的原则是温和地、缓慢地让孩子成长。</span>我们应该更多的认识到，从一个灵魂体到一个在地上生活的实体，是很困难的，是需要很多能量的。孩子需要很多的时间睡觉，当我们睡觉的时候，发生了什么呢？我们的感官系统都在恢复。当孩子们在睡觉的时候，孩子在更新他们的身体系统。你可能需要陪着你的孩子睡觉，也可能你的孩子在独立的房间睡，</span></p><p><span style="font-size: 14px;">     只要孩子能得到充分的睡眠就是很好的事情。在英国，有很多妈妈，在孩子3-6个月的时候就出去工作了，有的孩子送到幼儿园，但幼儿园老师无法保证所有孩子都有充分的睡眠，小点的孩子睡眠是不够的。</span></p><p><span style="font-size: 14px;">     能够睡到自然醒的孩子是最幸福的孩子。照顾孩子的人应该鼓励孩子想睡就睡，睡多久都可以。</span></p><p><span style="font-size: 14px;">     成人是带着意识进入睡眠和觉醒的，很多文化中有早晚祈祷的传统，这些都是为离开物质身体和回到物质身体做的准备。对于孩子来说，进入睡眠和出睡眠是需要练习的，我们可以帮助他们适应，所有可以帮助他们更缓和的进入睡眠的方法都是很好的：让环境安静下来，点蜡烛、唱歌等等。早晨又是一个相反的过程。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">六、问答汇总：</span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">1、问：孩子3岁多，脾气很大。</span></p><p><span style="font-size: 14px;">答：孩子总是变化的，总是会有那样的阶段，情况变得很困难，当他在学习变得更加独立的时候，例如学习穿衣服，当他做到了以前做不到的事情，他就会很开心，也许他遇到了一些困难，他会很挫败。有节律的生活对孩子来说会很有安全感，如果感到饿了，知道会有饭吃，如果感到累了，知道可以休息，当事情可以预料，他就会更开心。生活就是这样，一个困难跟着一个困难。当孩子易怒的时候，可能是遇到了什么困难，感到挫败，他需要的是鼓励和规律的生活。这不是说他生活中不会碰到挫折，你给他时间和空间。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">2、问：6岁的女孩，冰雪奇缘对孩子有很大的影响，女孩子们在一起总是讨论这个，造成很大的困扰。</span></p><p><span style="font-size: 14px;">答：迪斯尼是一个很聪明的企业，他们很了解怎样吸引孩子的注意力，他们很会教导孩子如何变成他们的消费者，他们这样做是有目的的，这是他们想营造的影响孩子的环境，我们作为家长要如何才能平衡这些负面的影响。现在的孩子已经在这样的环境中了，帮助孩子如何理解这样的体验，是成人要面临的问题。例如：恐龙的电影、会说话的汽车，帮助孩子建立真实的联系，例如：引导你的孩子“是谁帮你的公主做了这些衣服呢？”这是很实际的问题，可以把这些东西与他们的实际生活做一个关联，这是一个可以理解的过程。孩子有很好的、天生的想象力，虽然看电视会影响孩子的想象力，但孩子还是拥有一定的想象力，我们可以引导孩子，也许对一个6岁的孩子可能是一个启发“我有一天也可以做出这样的东西”。我6岁的时候，我的祖母送给我一些针线和手工材料，这是很美好的经验，激发我去动手做事情，去做自己想要玩的东西。在我的幼儿园里，有的小朋友扮演龙的游戏，有时小朋友被限制在那里，他们只知道电视中的龙，我想让孩子变成更开放一些，我说：“我是一个龙的医生，有没有哪个龙的翅膀有点酸呢？”老师引导孩子，按摩、休息、起床，整个游戏又变成了一个新的游戏。成人可以把这些与真实的生活相关联。</span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">3、问：5岁10个月的女儿，会问这个是从哪里来的？引擎如何工作的？当我用梦幻的方式回答她，她还是不停的去问。</span></p><p><span style="font-size: 14px;">答：引擎会工作是一个很棒的事情，要成为一个工程师需要很长的时间，小朋友虽然还不是工程师，但他们已经很会用手做东西，所以你可以告诉他们“这些是工程师来完成的，将来你可能也会成为工程师”。当小朋友问问题时，我们有时并不直接回答问题，他们问这些问题是因为他们有疑问。你需要告诉他们，这些与他们的关联，我们要诚实地回答，有时用仙子什么的来回答孩子，也会给孩子一些想象。有时如果我们真的不知道，我们也可以诚实地回答“这是一个很好的问题，我也想知道”。对于</span><span style="font-size: 14px;">4、5岁的孩子，他们可能会运用自己的想象力来给你一些答案，对6岁的孩子，他们已经在意识的觉醒中，他们真的想要真实的回答。如果他们没有得到想要的答案，他们会不停的问题，家长可以引导孩子自己去寻找答案。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">4、问：隔代养育的问题。</span></p><p><span style="font-size: 14px;">答：作为家长是很不希望看到其他人对自己的孩子有不好的影响。我对我们孩子如何教育孙子也有分歧，对于孩子来说，“世界是好的”这个中心是重要的，如果让孩子感觉到父母和祖父母有分歧是不好的。其实有祖辈来照顾孩子是很好的经验，孩子不只感到自己父母的爱，也能感受到其他人的爱。你不希望这个经验变成糟糕的，你有责任去和祖辈进行更多的沟通和交流，你希望如何教育自己的孩子，如果你希望孩子自己做更多的事情，你可以更多地与祖辈进行交流，可以看看其他孩子成功的经验，可以用老人更能理解的方式沟通。你可以摸索自己的父母可以接受到什么样的程度。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">5、问：我想暑假带孩子去农村生活，但爸爸无法去，我可以自己带孩子去吗？</span></p><p><span style="font-size: 14px;">答：带孩子去自然环境中体验是非常好的经验，只要你去就可以了，因为你是他生命中最重要的照顾者。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">6、问：我的女儿喜欢自我探索，总是想要我的关注，总是叫我，但我希望她自己玩，不要总是叫我。</span></p><p><span style="font-size: 14px;">答：这是很好的问题，孩子在玩耍的时候，我们在干什么呢？就是在一旁看他们吗？大人正在做一些和生活有意义的事情，孩子会自己找事情做，但是大人不是忙着看书或看手机，这不是孩子可以理解的。</span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">7、问：幼儿园的庆典是每年重复好，还是变化新的内容？</span></p><p><span style="font-size: 14px;">答：一般是保持固定的模式会比较好，也可以加入一些东西，缓慢一些比较好。做一个华德福老师，我会把事情变得更加简单，把一些东西拿出去。很多事情我们都想做，对我们是个诱惑，但我发现对孩子更好的是，把事情变得简单，他们可以感觉到更多的乐趣。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">8、问：爸爸很晚回来，孩子是否要等爸爸？周末父亲出去办事，带孩子去好吗？</span></p><p><span style="font-size: 14px;">答：让孩子和父亲有连接是很必要的，你可以自己调整节奏，灵活的去调整。孩子与父亲的连接很重要，可以带着孩子去。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">9、问：孩子对幼儿园感到无聊。</span></p><p><span style="font-size: 14px;">答：对老师的建议，老师要去引导孩子，孩子要在做事的过程中才能体验到。对于家长，孩子需要做更多的家务。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">10、问：睡到自然醒，孩子会不会节奏混乱了？</span></p><p><span style="font-size: 14px;">答：孩子要适应地球生活的日夜节奏，我们可以做一些事情，让孩子知道现在是白天还是夜晚，白天和晚上如果穿不一样的衣服，这样给他一个讯息；白天、晚上，玩耍的区域也可以分开。在晚上睡觉前，不能让他们休息太久。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">11、问：孩子会问：我们摘花、吃菜的时候它们也会疼，我们带孩子到户外，看到漂亮的花、草，有的孩子会摘，有的孩子说：它们会很疼的。我会不让孩子摘园丁种植的花，野花允许摘，但有的孩子会一直说：它们会很疼的。</span></p><p><span style="font-size: 14px;">答：我们可以说：你看大地给我们提供了石头用来建房子，植物可以用来吃，动物可以用来做鞋子，作为回报我们也要很好的照顾大地，例如有剩余的饭菜，我们可以用来做堆肥。我们可以处处体现出感恩的心态，花朵是很慷慨大方的，有时我们被允许摘花，母鸡允许我们拿走它的鸡蛋，牛可能献出整个生命，他们把生命作为礼物献给我们，在这之前，我们要好好照顾它们。我们要怀着感恩的心态去接受礼物。我们是一个大的环环相扣的生命体的一个部分，我们要尊重其他生物。在英国，冬天很少有花，山边开了一些漂亮的花，我们出游的时候，我说：“你看，这是装饰大地的礼物”。回程的时候，我说：“我们摘下花，马上放在水中，它们不会那么悲伤”。我们建立起孩子对大自然的尊重。</span></p><p><br  /></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">12、问：绘本的选择，如何引导？</span></p><p><span style="font-size: 14px;">答：孩子还小的时候，你对他拥有完全的控制权，最重要的是你给他树立道德的榜样，让他来模仿、吸收，即使把孩子交给其他人照顾，你也是孩子最重要的人。你陪孩子看绘本，你来判断书是否漂亮、帮助孩子想象力的发展，还是只是完全固定的图像，没有生命力的图像，你可以决定你的孩子是否看DVD，你可以平衡孩子受到的一些不好的影响，你可以给你的孩子树立榜样，你在成为更好的人，孩子会模仿你，吸收到这才是真正的生命状态，总是在变得更好。做家务、做手工，给孩子讲偶戏，都是很好的方向。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">13、问：在中国很多孩子分床太晚，导致孩子没有界限，分床时间真的有那么重要吗？什么时候分床比较好？</span></p><p><span style="font-size: 14px;">答：有一些节律，对宇宙都是适用的，例如呼吸。母子同床的问题是比较普遍的，这与文化也有关，我不能给你一个肯定的答案。不过你可以把你的孩子看成一个独立的个体，与你分离开来，那个保护的布，可以逐渐打开，孩子成长的目的是成长为一个分离的、独立的个体，你来支持他达到这个目标，你会找到一个方式既让自己舒适，也让孩子接受。有的孩子在1岁的时候就有一个房间，门是打开的，有的孩子是同房不同床，如果孩子还是和你同床，你需要逐渐的分开，如果你把这个理念放在心里，你和你的孩子都会感到舒适。我的女儿3岁时，搬家后她有了一个单独的房间，她晚上会经常跑到我的房间，我把我的床垫又放在她的房间，一起睡，但是很挤，几周后，孩子说：你们回到自己的房间吧。我说：我们试一下吧。我们可以找到自己的方法来完成这个过程。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p><span style="font-size: 14px; color: rgb(0, 176, 80);">七、家长分享</span></p><p><span style="font-size: 14px;">家长1</span><span style="font-size: 14px;">：解决孩子晚睡晚起的问题：8点半上床，点蜡烛讲故事，第二天6点起床。</span></p><p><span style="font-size: 14px;">Jill：睡前只讲一个故事。</span></p><p><span style="font-size: 14px;">家长2：和孩子一起做事情，自己很开心，孩子也会很开心，自己很焦虑的时候，孩子也会焦虑，家长在孩子成长的过程中也在不断成长，自己开导自己，鼓励自己，慢慢来。</span></p><p><span style="font-size: 14px;">Jill：现在家长有很多选择，会感到焦虑、没有安全感，做父母是一个成长的过程，如果你是一个很有责任心的家长，你也会提升得很快。</span></p><p><span style="font-size: 14px;">家长3：今天的讨论时间全都是讨论我的孩子，我收获很大，我孩子小的时候，我给孩子很多东西：金宝贝、蒙氏早教、动画、巧虎等等，我发现我的孩子很躁动、不专注，大家给我的建议是：去户外，带着孩子做手工，自己先要安静下来，否则自己的焦虑会带给孩子，把家里的环境变得更简单，我回去也要好好想想什么样的生活才是适合自己和孩子的。</span></p><p><span style="font-size: 14px;">Jill：当我们相互交换意见的时候，我们会有更多的智慧，希望你们以后还可以继续讨论，彼此支持。作为父母，承担了这么多责任，会觉得孤单，但我们有很多同伴，我们可以互相分享经验和智慧，我很鼓励你们这样去做。</span></p><p><span style="font-size: 14px;">家长4：通过讲故事、看爸爸的蛀牙，帮助孩子建立刷牙的习惯。</span></p><p><span style="font-size: 14px;">Jill：孩子在理解这个世界，知道不刷牙会有什么样的后果。</span></p><p><span style="font-size: 14px;">家长5：首先大人要做到有节律的生活，如果做不到每天都那么规律，那么尽量做到5</span></p><p><span style="font-size: 14px;">天中有4天是规律的，或者周末是规律的，我们可以逐步地建立节律。睡前的节奏，不论什么时候上床，也遵守这个节奏。</span></p><p><span style="font-size: 14px;">Jill：对于幼儿园的老师来说，我们会保持一天的节律，有时在外面呆的时间太长了，可能就没有时间讲故事了，我会让大家坐下来，讲：很久以前有一个幼儿园，有男孩女孩，有一天，他们很忙，故事时间只有一点点，然后我们就说再见。还是有故事时间，但是调整一下。这对孩子来说，比没有故事更好，虽然比较短。</span></p><p><span style="font-size: 14px;">家长6：孩子半夜醒来，说：妈妈，我要出去玩，我有时会把他抱出去看一下，有次感冒了，不能出去了，我就告诉以后不可以出去了，我一直坚持，最后孩子说：我就去客厅看一下可以吗？我就带他去看了，然后孩子就睡了。我体会到大人言行一致的重要。</span></p><p><span style="font-size: 14px;">Jill：很好，界限终于设立了，孩子也感觉到安全了。当你真正感觉到这是应该做的事情，孩子看到界限了，他就感觉到安全了。通常孩子在发烧的时候会进入一个新的阶段，因为发烧的时候，身体地流动很快，会发生一些转变，2岁半的时候是孩子开始说“我”的时候，“我”这个词是不能通过模仿去学习的，当孩子会说我的时候，说明他开始进入一个新的阶段。</span></p><p><span style="font-size: 14px;">   最后再次感谢本公益活动的发起方德一园和共同成长，以及会务方务本学堂。</span></p><p><span style="font-size: 14px;"><br  /></span></p><p style="white-space: normal; text-align: center;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: inherit; font-size: 12px; color: rgb(165, 165, 165); font-weight: inherit; text-decoration: inherit; line-height: 22.390625px; box-sizing: border-box !important; word-wrap: break-word !important;">（本文内容来自“深圳德一园”新浪博客 由三心老师辛勤整理）</span></p><p style="white-space: normal;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: inherit; font-size: 12px; color: rgb(165, 165, 165); font-weight: inherit; text-decoration: inherit; line-height: 22.390625px; box-sizing: border-box !important; word-wrap: break-word !important;"><br  /></span></p><fieldset style="white-space: normal;"><section style="margin: -10px 40px; padding: 0px 40px; max-width: 100%; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;"><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px 0px 4px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(255, 255, 255); line-height: 1.6em; font-size: 14px; border-bottom-right-radius: 100%; border-bottom-left-radius: 100%; border-color: rgb(33, 33, 34); background-color: rgb(33, 33, 34); box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: inherit; font-family: inherit; line-height: 1.6em; box-sizing: border-box !important; word-wrap: break-word !important;">关注后回复“数字”查看 </span><br style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"  /></p></section><section class="135brush" style="margin: 0px; padding: 8px 5px; max-width: 100%; line-height: 2em; box-sizing: border-box !important; word-wrap: break-word !important;"><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="color: inherit; font-size: 14px; line-height: 2em;"><br  /></span></p><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="color: inherit; font-size: 14px; line-height: 2em;">【8】</span><span style="font-size: 14px; line-height: 2em; margin: 0px; padding: 0px; max-width: 100%; color: rgb(0, 176, 80); box-sizing: border-box !important; word-wrap: break-word !important;">生病的孩子，八成都因为伤了心</span></p><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【23】<span style="color: rgb(227, 108, 9);">芭芭拉老师教你怎样去把握孩子的边界和界限</span></span></p><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【24】<span style="color: rgb(255, 0, 0);">特别推荐--七岁前和7岁后的对应和修复</span></span></p><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【25】<span style="color: rgb(0, 176, 80);">家长怎么把华德福教育带入家庭</span></span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【26】疗愈注意力，情绪和学习有困难的孩子</span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【29】<strong><span style="color: rgb(0, 176, 80);">人智力学医生David关于儿童讲座</span></strong></span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【34】Clive医师关于孩子健康演讲及问答</span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><strong><span style="font-size: 14px; color: rgb(112, 48, 160);">【38】1-6岁孩子最好的陪伴方法，非常详细</span></strong></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px; color: rgb(0, 176, 80);">【46】华德福教育创始人给孩子做的演讲；</span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px; color: rgb(0, 112, 192);">【48】心理营养没有被满足的孩子，一生都在寻觅（0到7岁指南）</span></p><p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="font-size: 14px;">【54】华德福治疗教育专家芭芭拉答家长问题集锦</span></p><p style="margin-top: 0px; margin-bottom: 0px; color: inherit; padding: 0px; max-width: 100%; min-height: 1em; white-space: pre-wrap; box-sizing: border-box !important; word-wrap: break-word !important;">****   ****</p></section></fieldset><p style="margin-top: 0px; margin-bottom: 0px; white-space: normal; padding: 0px; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); widows: 2; font-size: 14px; font-family: 微软雅黑; orphans: 2; background-color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; background-color: rgb(255, 255, 0); box-sizing: border-box !important; word-wrap: break-word !important;"><img data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/QKVdtiad2WP3Jfs0YBHuVtUEOkiaYfvvHY9wzkTlfYEVE5ZJ0PJTa0GArDSXFUumDrsKHStMs1FhQ5QcVXXZmQyg/0?wx_fmt=jpeg" data-ratio="0.6600790513833992" data-w=""  /><br  /></span></strong></p><p style="margin-top: 0px; margin-bottom: 0px; white-space: normal; padding: 0px; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); widows: 2; font-size: 14px; font-family: 微软雅黑; orphans: 2; background-color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; background-color: rgb(255, 255, 0); box-sizing: border-box !important; word-wrap: break-word !important;">如果喜欢就分享给朋友圈的好友吧</span></strong><img data-src="http://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif" word_img="file:///C:/Users/Administrator/AppData/Local/youdao/ynote/images/9083EB9989A048F1994B2F8D4329A4A5/0.jpeg" distinguish="15490597B14346EE84916A6A5D4A4697" data-media-type="image" data-inited="true" data="" ue="" data-ratio="1" data-w="1" data-src="http://mp.weixin.qq.com/mpres/htmledition/ueditor/themes/default/images/spacer.gif" style="margin: 0px; padding: 0px; border: 1px solid rgb(221, 221, 221); background-image: url(http://mp.weixin.qq.com/mpres/htmledition/ueditor/lang/zh_CN/images/localimage.png); box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important; background-position: 50% 50%; background-repeat: no-repeat no-repeat;"  /></p><p style="margin-top: 0px; margin-bottom: 0px; white-space: normal; padding: 0px; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); widows: 2; font-size: 14px; font-family: 微软雅黑; orphans: 2; background-color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(227, 108, 9); box-sizing: border-box !important; word-wrap: break-word !important;">有问必答</span></p><p style="margin-top: 0px; margin-bottom: 0px; white-space: normal; padding: 0px; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); widows: 2; font-size: 14px; font-family: 微软雅黑; orphans: 2; background-color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important;"><strong style="margin: 0px; padding: 0px; max-width: 100%; color: rgb(118, 146, 60); box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: 宋体; box-sizing: border-box !important; word-wrap: break-word !important;">微信号：tianweiqiang1989</span></strong></p><p style="margin-top: 0px; margin-bottom: 0px; white-space: normal; padding: 0px; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); widows: 2; font-size: 14px; font-family: 微软雅黑; orphans: 2; background-color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: 宋体; color: rgb(0, 176, 80); box-sizing: border-box !important; word-wrap: break-word !important;">华德福教育,人智医学,家庭护理,成长测评,培训分享......</span></p><p style="white-space: normal;"><span style="margin: 0px; padding: 0px; max-width: 100%; font-family: 宋体; color: rgb(0, 176, 80); box-sizing: border-box !important; word-wrap: break-word !important;"><br  /></span></p><p style="white-space: pre-wrap; margin-top: 0px; margin-bottom: 0px; padding: 0px; max-width: 100%; min-height: 1em; box-sizing: border-box !important; word-wrap: break-word !important; text-align: left;"><br  /></p></h2>
+                    </div>
+                    <script type="text/javascript">
+                        var first_sceen__time = (+new Date());
+
+                        if ("" == 1 && document.getElementById('js_content'))
+                            document.getElementById('js_content').addEventListener("selectstart",function(e){ e.preventDefault(); });
+
+                                        (function(){
+                            if (navigator.userAgent.indexOf("WindowsWechat") != -1){
+                                var link = document.createElement('link');
+                                var head = document.getElementsByTagName('head')[0];
+                                link.rel = 'stylesheet';
+                                link.type = 'text/css';
+                                link.href = "http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_winwx2a7a3f.css";
+                                head.appendChild(link);
+                            }
+                        })();
+                    </script>
+                    <link rel="stylesheet" type="text/css" href="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_combo2a7a3f.css">
+                    
+                    
+                                        
+                                        
+                                        <div class="rich_media_tool" id="js_toobar3">
+                                                                    <a class="media_tool_meta meta_primary" id="js_view_source" href="javascript:void(0);">阅读原文</a>
+                                                <div id="js_read_area3" class="media_tool_meta tips_global meta_primary" style="display:none;">阅读 <span id="readNum3"></span></div>
+
+                        <span style="display:none;" class="media_tool_meta meta_primary tips_global meta_praise" id="like3">
+                            <i class="icon_praise_gray"></i><span class="praise_num" id="likeNum3"></span>
+                        </span>
+
+                        <a id="js_report_article3" style="display:none;" class="media_tool_meta tips_global meta_extra" href="javascript:void(0);">举报</a>
+
+                    </div>
+                </div>
+
+                <div class="rich_media_area_extra">
+
+                    
+                                        <div class="mpda_bottom_container" id="js_bottom_ad_area">
+                        
+                    </div>
+
+                    
+                    <div id="js_iframetest" style="display:none;"></div>
+
+                    
+                                    </div>
+               
+            </div>
+            <div id="js_pc_qr_code" class="qr_code_pc_outer" style="display:none;">
+                <div class="qr_code_pc_inner">
+                    <div class="qr_code_pc">
+                        <img id="js_pc_qr_code_img" class="qr_code_pc_img">
+                        <p>微信扫一扫<br>关注该公众号</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+        
+        <script>window.moon_map = {"appmsg/emotion/caret.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/caret278965.js","appmsg/emotion/map.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/map278965.js","appmsg/emotion/textarea.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/textarea27cdc5.js","appmsg/emotion/nav.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/nav278965.js","appmsg/emotion/common.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/common278965.js","appmsg/emotion/slide.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/slide2a7a3f.js","biz_wap/jsapi/cardticket.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/jsapi/cardticket275627.js","pages/report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/report2a26bd.js","pages/music_player.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/music_player298e98.js","pages/loadscript.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/loadscript292ed8.js","appmsg/emotion/dom.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/dom278965.js","appmsg/emotion/emotion.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/emotion/emotion2a7a3f.js","biz_wap/utils/hashrouter.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/hashrouter2805ea.js","appmsg/cmt_tpl.html.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/cmt_tpl.html2a2c13.js","a/gotoappdetail.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/gotoappdetail2a2c13.js","a/ios.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/ios275627.js","a/android.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/android275627.js","a/profile.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/profile29b1f8.js","a/card.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/a/card29b1f8.js","biz_wap/utils/position.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/position29b1f8.js","appmsg/a_report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/a_report282222.js","biz_common/utils/report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/report275627.js","biz_common/utils/huatuo.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/huatuo293afc.js","biz_common/utils/cookie.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/cookie275627.js","pages/voice_component.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/voice_component2a74ac.js","new_video/ctl.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/new_video/ctl292ed8.js","biz_common/utils/monitor.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/monitor2a30ee.js","biz_common/utils/spin.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/spin275627.js","biz_wap/jsapi/pay.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/jsapi/pay275627.js","appmsg/reward_entry.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/reward_entry29bb2b.js","appmsg/comment.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/comment2a7a3f.js","appmsg/like.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/like2a74ac.js","appmsg/a.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/a2a6faf.js","pages/version4video.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/pages/version4video2a6afa.js","biz_wap/utils/storage.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/storage2a74ac.js","biz_common/tmpl.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/tmpl275627.js","appmsg/img_copyright_tpl.html.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/img_copyright_tpl.html2a2c13.js","appmsg/a_tpl.html.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/a_tpl.html2a4dd8.js","biz_common/ui/imgonepx.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/ui/imgonepx275627.js","biz_common/dom/attr.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/dom/attr275627.js","biz_wap/utils/ajax.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/ajax297cdb.js","biz_common/utils/string/html.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/string/html29f4e9.js","appmsg/report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/report2a30ee.js","biz_common/dom/class.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/dom/class275627.js","appmsg/report_and_source.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/report_and_source29f4e9.js","appmsg/page_pos.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/page_pos2a5394.js","appmsg/cdn_speed_report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/cdn_speed_report275627.js","appmsg/voice.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/voice2a74ac.js","appmsg/qqmusic.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/qqmusic2a74ac.js","appmsg/iframe.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/iframe2a74ac.js","appmsg/review_image.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/review_image2a5394.js","appmsg/outer_link.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/outer_link275627.js","biz_wap/jsapi/core.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/jsapi/core275627.js","biz_common/dom/event.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/dom/event275627.js","appmsg/copyright_report.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/copyright_report2a2c13.js","appmsg/cache.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/cache2a74ac.js","appmsg/pay_for_reading.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/pay_for_reading28f721.js","appmsg/async.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/async2a6faf.js","biz_wap/ui/lazyload_img.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/ui/lazyload_img275627.js","biz_common/log/jserr.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/log/jserr2805ea.js","appmsg/share.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/share2a42af.js","biz_wap/utils/mmversion.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/mmversion275627.js","appmsg/cdn_img_lib.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/cdn_img_lib275627.js","biz_common/utils/url/parse.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_common/utils/url/parse275627.js","biz_wap/utils/device.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/utils/device27f46f.js","biz_wap/jsapi/a8key.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/jsapi/a8key2a30ee.js","appmsg/index.js":"http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/appmsg/index2a5394.js"};window.moon_crossorigin = true;</script><script type="text/javascript" src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/js/biz_wap/moon2a74ac.js" crossorigin></script>
+    <script id="voice_tpl" type="text/html">        
+        <span id="voice_main_<#=voiceid#>_<#=posIndex#>" class="db audio_area <#if(!musicSupport){#> unsupport<#}#>">
+            <span class="tc tips_global unsupport_tips" <#if(show_not_support!==true){#>style="display:none;"<#}#>>
+            当前浏览器不支持播放音乐或语音，请在微信或其他浏览器中播放            </span>
+            <span class="audio_wrp db">
+                <span id="voice_play_<#=voiceid#>_<#=posIndex#>" class="audio_play_area">
+                    <i class="icon_audio_default"></i>
+                    <i class="icon_audio_playing"></i>
+                    <img src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/audio/icon_audio_unread26f1f1.png" alt="" class="pic_audio_default">
+                </span>
+                <span class="audio_length tips_global"><#=duration_str#></span>
+                <span class="db audio_info_area">
+                    <strong class="db audio_title"><#=title#></strong>
+                    <span class="audio_source tips_global"><#if(window.nickname){#>来自<#=window.nickname#><#}#></span>
+                </span>
+                <span id="voice_progress_<#=voiceid#>_<#=posIndex#>" class="progress_bar" style="width:0px;"></span>
+            </span>
+        </span>
+    </script>
+
+    <script id="qqmusic_tpl" type="text/html">        
+        <span id="qqmusic_main_<#=comment_id#>_<#=posIndex#>" class="db qqmusic_area <#if(!musicSupport){#> unsupport<#}#>">
+            <span class="tc tips_global unsupport_tips" <#if(show_not_support!==true){#>style="display:none;"<#}#>>
+            当前浏览器不支持播放音乐或语音，请在微信或其他浏览器中播放            </span>
+            <span class="db qqmusic_wrp">
+                <span class="db qqmusic_bd">
+                    <span id="qqmusic_play_<#=musicid#>_<#=posIndex#>" class="play_area">
+                        <i class="icon_qqmusic_switch"></i>
+                        <img src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/qqmusic/icon_qqmusic_default.2x26f1f1.png" alt="" class="pic_qqmusic_default">
+                        <img src="<#=music_img#>" data-autourl="<#=audiourl#>" data-musicid="<#=musicid#>" class="qqmusic_thumb" alt="">
+                    </span>
+                                        <a id="qqmusic_home_<#=musicid#>_<#=posIndex#>" href="javascript:void(0);" class="access_area">
+                        <span class="qqmusic_songname"><#=music_name#></span>
+                        <span class="qqmusic_singername"><#=singer#></span>
+                        <span class="qqmusic_source"><img src="http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/icon/appmsg/qqmusic/icon_qqmusic_source263724.png" alt=""></span>
+                    </a>
+                </span>
+            </span>       
+        </span>
+    </script>
+  <script type="text/javascript">
+      var not_in_mm_css = "http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/not_in_mm2a7a3f.css";
+      var windowwx_css = "http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/appmsg/page_mp_article_improve_winwx2a7a3f.css";
+      var tid = "";
+      var aid = "";
+      var clientversion = "0";
+      var appuin = "MjM5ODI3NzUwNA==";
+
+      var source = "6";
+      var scene = 75;
+      
+      var itemidx = "";
+      var nickname = "华德福";
+      var appmsg_type = "9";
+      var ct = "1450267012";
+      var user_name = "gh_1f367f068e28";
+      var user_name_new = "";
+      var fakeid   = "MTM0Mjc1ODE4MQ==";
+      var version   = "";
+      var is_limit_user   = "0";
+      var msg_title = "【华德福笔记】幼儿教育的本质--英国教育家Jill老师工作坊记录";
+      var msg_desc = "HuadefuID:&nbsp;dearmychild亲爱的孩子，这个世上，没有人比我更爱你！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在生命的头七";
+      var msg_cdn_url = "http://mmbiz.qpic.cn/mmbiz/QKVdtiad2WP1Z5CFJzqzYAdYSRNOFjlgJMbhib2dHZxqARs48ibgRMdtkw6VXnNkbvcMRcdLrN8vRgiapFNqaiar3NQ/0?wx_fmt=jpeg";
+      var msg_link = "http://mp.weixin.qq.com/s?__biz=MjM5ODI3NzUwNA==&amp;mid=401066515&amp;idx=1&amp;sn=72b1d22e3eb7fd97cbb71ef4769c7668#rd";
+      var user_uin = "0"*1;
+      var msg_source_url = 'http://blog.sina.cn/dpool/blog/s/blog_d040375c0102vcb6.html?from=timeline&amp;isappinstalled=0#rd';
+      var img_format = 'jpeg';
+      var srcid = '';
+      var networkType;
+      var appmsgid = '' || '401066515';
+      var comment_id = "0" * 1;
+      var comment_enabled = "" * 1;
+      var is_need_reward = "0" * 1;
+      var is_https_res = ("" * 1) && (location.protocol == "https:");
+
+      var devicetype = "";
+      var source_username = "";  
+      var profile_ext_signature = "" || "";
+      var reprint_ticket = "";
+      var source_mid = "";
+      var source_idx = "";
+
+      var show_comment = "";
+      var __appmsgCgiData = {
+            can_use_page : "0"*1,
+            is_wxg_stuff_uin : "0"*1,
+            card_pos : "",
+            copyright_stat : "0",
+            source_biz : "",
+            hd_head_img : "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoeXpNFO5kp8pP5cgPNY6D6JB8BBTfcolFCibMBrLibNg/0"||(window.location.protocol+"//"+window.location.host + "http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/pic/appmsg/pic_rumor_link.2x264e76.jpg")
+      };
+      var _empty_v = "http://res.wx.qq.com/mmbizwap/zh_CN/htmledition/images/pic/pages/voice/empty26f1f1.mp3";
+
+      var copyright_stat = "0" * 1;
+
+      var pay_fee = "" * 1;
+      var pay_timestamp = "";
+      var need_pay = "" * 1;
+
+      var need_report_cost = "0" * 1;
+      
+            window.wxtoken = "";
+          if(!!window.__initErrorReport){
+        window.__initErrorReport(84,{
+            biz : biz || "",
+            mid : mid || "",
+            idx : idx || ""
+        });
+    }
+  </script>
+
+  <script type="text/javascript">
+      seajs.use('appmsg/index.js');
+  </script>
+
+
+    </body>
+</html>
+
+ 
+";

@@ -1,0 +1,690 @@
+s:46766:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 18 Dec 2015 07:33:43 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: ABTEST=4|1450424023|v1; expires=Sun, 17-Jan-16 07:33:43 GMT; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: SNUID=45AF9E1A676D4F4F40DFF44F68D09705; expires=Mon, 28-Dec-15 07:33:43 GMT; domain=.sogou.com; path=/
+Set-Cookie: IPLOC=CN1100; expires=Sat, 17-Dec-16 07:33:43 GMT; domain=.sogou.com; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Set-Cookie: SUID=2DC8F9726F1C920A000000005673B6D7; expires=Thu, 13-Dec-35 07:33:43 GMT; domain=weixin.sogou.com; path=/
+P3P: CP="CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Cache-Control: max-age=0
+x_ad_pagesize: adpagesize=0
+Set-Cookie: black_passportid=1; domain=.sogou.com; path=/; expires=Thu, 01-Dec-1994 16:00:00 GMT
+Expires: Fri, 18 Dec 2015 07:33:43 GMT
+
+
+<!doctype html>
+<html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta charset="utf-8">
+<title>华德福的相关微信公众号 – 搜狗微信搜索</title>
+
+<script>var sst={h_s:(new Date()).getTime()}</script>
+<link href="/wechat/css/main06.min.css?v=1" rel="stylesheet" type="text/css">
+<script>var oldQuery="华德福";var gbkQuery="%BB%AA%B5%C2%B8%A3";var uuid="c3796c4b-b9dc-41d0-b4d0-57458becc783";var keywords_string="华德福";var sab="4";var keywords=oldQuery.split(' ');var now=1450424023902;var idc="zw";var clientIp="114.249.200.45";
+
+</script><script src="/wechat/js/require.min.js"></script>
+<script src="/wechat/js/declare.min.js"></script>
+<script src="/wechat/js/sogou_common2.min.js"></script>
+<script src="/wechat/js/weixin_pc.min.js?v=1"></script>
+<script>bind(window,"load",function(){if(document.body.clientWidth<1200){document.body.className="vr1024"}else{document.body.className=""}bind(window,"resize",function(){if(document.body.clientWidth<1200){document.body.className="vr1024"}else{document.body.className=""}})});</script>
+<script type="text/javascript" charset="gbk" src="/js/jquery-1.11.0.min.js"></script>
+
+<style>#timefilter{display:none;}</style>
+
+</head>
+<body>
+<script>function getCookieVal(offset){var endstr=document.cookie.indexOf(";",offset);if(endstr==-1)endstr=window.document.cookie.length;return document.cookie.substring(offset,endstr)}function getCookie(name){var arg=name+"=";var alen=arg.length;var clen=document.cookie.length;var i=0;while(i<clen){var j=i+alen;if(document.cookie.substring(i,j)==arg)return getCookieVal(j);i=document.cookie.indexOf(" ",i)+1;if(i==0)break}return null}</script>
+
+
+<link href="/wechat/css/weixin-public.min.css?v=3" rel="stylesheet" type="text/css"/>
+<style>.wx-rb *{zoom:1}</style>
+<script>
+function ie6style(ieStyle,otherStyle) {
+    var  realcss=otherStyle||"";
+    if(navigator.userAgent.match(/MSIE/)) {
+        realcss=ieStyle
+    }
+    if(realcss!=undefined&&realcss!=""){
+        var head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style');
+        style.type = 'text/css';
+        if (style.styleSheet) {
+            style.styleSheet.cssText = realcss;
+        } else {
+            style.appendChild(document.createTextNode(realcss));
+        }
+        head.appendChild(style);
+    }
+}
+ie6style('.hsform .query{height:18px}');
+</script>
+<div class="pop-ie" style="display:none">
+  <p class="p1">您的浏览器版本过低,，请升级到IE7.0以上版本或者使用其他浏览器，登录后体验新功能。</p>
+  <p class="p2"><a href="#">知道了</a></p>
+  <span></span>
+</div>
+<div class="wrap">
+<dl id="top_login_bar" class="topbar" style="padding-right: 10px"><dd class="no-bg"><a id="top_login" class="res-logn-ico" href="javascript:void(0);" uigs="weixin_pc_login_top">登录</a></dd><script>$(function(){$('#top_login,[name=top_login]').click(function() {var refer = document.referrer;(new Image()).src = 'http://pb.sogou.com/pv.gif?uigs_productid=weixin&type=gzhjs_login&status=2&refer='+encodeURIComponent(refer);showLogin(refer); });})</script></dl>
+<script>weixin_sougou_islogin = false; </script>
+    <!--start header-->
+  <div class="header-box">
+    <div class="header">
+        <a title="回到搜狗首页" href="/" name="scroll-nav" class="logo">
+          <img src="/wechat/images/sousuo01_1.png" width="130" height="32" alt="">
+        </a>
+        <ul class="searchnav" name="scroll-nav">
+          <li><a t=q href="http://news.sogou.com/news?ie=utf8&p=40230447&query=华德福" id=sogou_news onclick="navBar(this,'query=',true);">新闻</a></li>
+          <li><a t=q href="http://www.sogou.com/web?ie=utf8&query=华德福" id=sogou_leftall onclick="navBar(this,'query=',true);">网页</a></li>
+          <li class="cur">微信</li>
+          <li><a t=q href="http://zhihu.sogou.com/zhihu?ie=utf8&p=73351201&query=华德福" id=sogou_zhihu onclick="navBar(this,'query=',true)">知乎<span class="nav-new"></span></a></li>
+          <li><a t=q href="http://wenwen.sogou.com/s/?cid=websearch2ww&w=华德福" id=sogou_wenwen onclick="navBar(this,'w=',true)">问问</a></li>
+          <li><a t=q href="http://pic.sogou.com/pics?ie=utf8&p=40230504&query=华德福" id=sogou_pic onclick="navBar(this,'query=',true)">图片</a></li>
+          <li><a t=q href="http://v.sogou.com/v?ie=utf8&p=40230608&query=华德福" onclick="navBar(this,'query=',true)" id="sogou_video">视频</a></li>
+          
+          <li><a t=q href="http://map.sogou.com/#lq=华德福" id=sogou_maps onclick="navBar(this,'#lq=',false)">地图</a></li>
+          
+          <li><a t=q href="http://gouwu.sogou.com/shop?p=40031500&ie=utf8&query=华德福" id=sogou_shop onclick="navBar(this,'query=',true)">购物</a></li>
+          <li style="width:45px" ><a href="http://www.sogou.com/docs/more.htm?v=1" id="top_more" target="_blank">更多<span>&gt;&gt;</span></a></li>
+        </ul>
+      <script src="/wechat/js/weixin_filter.min.js"></script>
+      <form action="/weixin" name="searchForm" >
+        
+<div class="querybox">
+    <div class="qborder">
+        <div class="qborder2">
+            <input type="hidden" name="type" id="uptype" value="1"/>
+            <input type="text"
+                   class="query"
+                   id="upquery"
+                   name="query"
+                   ov="华德福"
+                   value="华德福"
+                   autocomplete="off"
+
+                    >
+            
+            <input type="hidden" name="ie" value="utf8"/>
+            
+            
+            
+            <a href="javascript:void(0)" class="qreset2" ></a>
+        </div>
+    </div>
+    <input type="button" value="搜文章" class="swz" onclick="weinxinfilter(this,2)"  uigs="weixin_search_button_pc_art">
+    <input type="button" value="搜公众号" class="swz2"  onclick="weinxinfilter(this,1)" uigs="weixin_search_button_pc_gzh">
+</div>
+
+
+
+      </form>
+  </div>
+  </div>
+  <!--end header-->
+
+
+<div class="wrap">
+    <div class="wrapper" id="wrapper">
+<div id="main" class="main">
+<div class="weixin-public">
+
+
+
+
+<div class="weixin-public">
+    <div class="wx-topbox">以下内容来自微信公众号
+        <div class="all-time" style="height:34px">
+            <span id="timefilter" >
+            <a name="filter_time" class="btn-time cur">全部时间
+        </a>
+
+            <div class="time-box" name="filter_time_content" style="display:none"><i></i>
+                
+                <a id="left_timespan_0" class='cur' href="javascript:void(0)">全部时间</a>
+                
+                <a id="left_timespan_1"  href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&ie=utf8&sourceid=inttime_day&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=1">一天内</a>
+                
+                <a id="left_timespan_2"  href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&ie=utf8&sourceid=inttime_week&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=2">一周内</a>
+                
+                <a id="left_timespan_3"  href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&ie=utf8&sourceid=inttime_month&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=3">一月内</a>
+                
+                <a id="left_timespan_4"  href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&ie=utf8&sourceid=inttime_year&interation=&interV=kKIOkrELjboJmLkElbYTkKIKmbELjbkRmLkElbk%3D_1893302304&tsn=4">一年内</a>
+                
+            </div>
+            
+            
+                </span>
+            <span style="display:none">
+            <a href="javascript:void(0)" class="clear-time" style="display:none" name="search_tools_open" uigs="weixin_pc_art_searchtool_open">搜索工具</a>
+            <a href="javascript:void(0)" class="clear-time" uigs="weixin_pc_art_searchtool_close"  name="search_tools_close">收起工具</a>
+            </span>
+        </div>
+
+    <script>$(function () {
+        $("[name=filter_time]").click(function () {
+            $("[name=filter_time_content]").toggle();
+            return false;
+        });
+        $("body").click(function(){
+            $("[name=filter_time_content]").hide();
+        })
+        var jopen=$('[name=search_tools_open]');
+        var jclose=$('[name=search_tools_close]');
+        var jsearchTool=$("#timefilter");
+        jopen.click(function () {
+            jopen.hide()
+            jclose.show();
+            jsearchTool.show();
+        })
+        jclose.click(function () {
+            jclose.hide();
+            jsearchTool.hide();
+            jopen.show();
+        })
+    })</script>
+    </div>
+
+</div>
+
+
+
+
+
+
+<div><div class="results mt7">
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFtxX3Z69SsRo2347bOWHqnv4&amp;ext=BwNJn-VLvvOZ6JLdqqi61AeZeKXQWEAy0KAHbkxNNyA3AG4sKjaXY6DveO636Ofr" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFtxX3Z69SsRo2347bOWHqnv4&amp;ext=BwNJn-VLvvOZ6JLdqqi61AeZeKXQWEAy0KAHbkxNNyA3AG4sKjaXY6DveO636Ofr',event,this);return true;" id="sogou_vr_11002301_box_0" uigs="sogou_vr_11002301_box_0">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtxX3Z69SsRo2347bOWHqnv4" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoeXpNFO5kp8pP5cgPNY6D6JB8BBTfcolFCibMBrLibNg/0/0'"></div>
+<div class="txt-box">
+<h3><em><!--red_beg-->华德福<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">dearmychild</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">关注<em><!--red_beg-->华德福<!--red_end--></em>教育,推广育儿知识,父母心灵成长,为孩子创建健康的成长环境!</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">深圳市龙华新区捷迅安贸易商行</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_0" href="/websearch/art.jsp?sg=CBf80b2xkgZit7B8vb7X2omkTu3p85lc0Y75CltitFriBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whjLhrD3OPs1XFL2nHkZC-aUW-zPEc5g3z1lRRT4M2LZWQ3JxMQ3374KS07MZawi-ej87aBtGZItgaiU_Pl9FcUzeJimhwENqJYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">【<em><!--red_beg-->华德福<!--red_end--></em>笔记】幼儿教育的本质--英国教育家Jill老师工作坊记录</a><span class="hui"><script>vrTimeHandle552write('1450267014')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '0');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtxX3Z69SsRo2347bOWHqnv4" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4icoeXpNFO5kp8pP5cgPNY6D6JB8BBTfcolFCibMBrLibNg/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/YHV7dEvE8nWNh1oXnyBE"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt2K5s8WJNGjLj9uKY2bDClU&amp;ext=BwNJn-VLvvNahwft8kJyg2J4jeqyAFA-ZQBIgC_RGtphV_ikivYQgj3l1da6hCO8" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt2K5s8WJNGjLj9uKY2bDClU&amp;ext=BwNJn-VLvvNahwft8kJyg2J4jeqyAFA-ZQBIgC_RGtphV_ikivYQgj3l1da6hCO8',event,this);return true;" id="sogou_vr_11002301_box_1" uigs="sogou_vr_11002301_box_1">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt2K5s8WJNGjLj9uKY2bDClU" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5NVooYPJyO7Q3h4AMh1iaXYPvYDVF8uoZ5PdqqNp50bug/0/0'"></div>
+<div class="txt-box">
+<h3><em><!--red_beg-->华德福<!--red_end--></em>教育</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">huadefujiaoyu</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">致力于为中国年轻父母传播<em><!--red_beg-->华德福<!--red_end--></em>教育理念,将更多有价值的教育故事分享给大家.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('1')</script>认证：</span><span class="sp-txt">来自腾讯微博认证资料:北京华德福教育官方微博,主要从事教育咨询工作. @华德福教育</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_1" href="/websearch/art.jsp?sg=xaXJ7lM8QYQ18LnVRfbvJUw8Ezyzw1lY0QOGHOjMN5DiBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whRL4rnxUDVTTxvz6COXLFQFJmAPOq06MwO93grHiaMf2Q3JxMQ3374OiiesJ_1J4mUCoWHK3TmWAleAR0bysGTAnNpn3CHmmRYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">带您了解<em><!--red_beg-->华德福<!--red_end--></em>的深冬花园&mdash;&mdash;我是世上明光  冬至将近,让我们一起...</a><span class="hui"><script>vrTimeHandle552write('1450261464')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '1');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt2K5s8WJNGjLj9uKY2bDClU" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5NVooYPJyO7Q3h4AMh1iaXYPvYDVF8uoZ5PdqqNp50bug/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/tXWFinTEJ0pYh2XpnyCR"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFtzEP2e6YqtI-t5fh19Se1PQ&amp;ext=BwNJn-VLvvPGp-1kgEMgiDafqIuRiMrBWR7ZowgxiYpPl9AiyowLtE39JNso8CND" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFtzEP2e6YqtI-t5fh19Se1PQ&amp;ext=BwNJn-VLvvPGp-1kgEMgiDafqIuRiMrBWR7ZowgxiYpPl9AiyowLtE39JNso8CND',event,this);return true;" id="sogou_vr_11002301_box_2" uigs="sogou_vr_11002301_box_2">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtzEP2e6YqtI-t5fh19Se1PQ" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6LiceM8BbtpAIB7VKlqs6xIDNnWvJtpibXel21c5bdBqjQ/0/0'"></div>
+<div class="txt-box">
+<h3><em><!--red_beg-->华德福<!--red_end--></em>商城</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">hdfshop</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">作为北京<em><!--red_beg-->华德福<!--red_end--></em>教育艺术用品服务中心,我们致力于推介<em><!--red_beg-->华德福<!--red_end--></em>教育生活形态,持续为您分享<em><!--red_beg-->华德福<!--red_end--></em>教育、人文、生活的新知与感悟, 为您提供<em><!--red_beg-->华德福<!--red_end--></em>艺术用品、专业教育书籍、儿童绘本、自然玩具、生活用品与绿色食品,...</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">北京安瑞智企业管理顾问有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_2" href="/websearch/art.jsp?sg=-kjBTUzEYBC0Q7VWc3K3AWLBDGOX0dSIZmnm3Xz7ay_iBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgLzjdeJXc5r08TDaReltcUFJmAPOq06MxHHQOypEVz02Q3JxMQ3374XJFSPWx-74kbI52F5b9tgJjQtbF0nrKhHLiYD7Fm62tYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">深冬花园与中国<em><!--red_beg-->华德福<!--red_end--></em>幼儿园</a><span class="hui"><script>vrTimeHandle552write('1450398613')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '2');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFtzEP2e6YqtI-t5fh19Se1PQ" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6LiceM8BbtpAIB7VKlqs6xIDNnWvJtpibXel21c5bdBqjQ/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/a0MHCDfEzwmwhyZrnxZP"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt_6CJYZGDNCK3jKvYOt-PDU&amp;ext=BwNJn-VLvvOlLfQRYUn0Jh9hWidounSBPDACmfgu6FX1U_p1cLOrPo5w7-Sh9CI2" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt_6CJYZGDNCK3jKvYOt-PDU&amp;ext=BwNJn-VLvvOlLfQRYUn0Jh9hWidounSBPDACmfgu6FX1U_p1cLOrPo5w7-Sh9CI2',event,this);return true;" id="sogou_vr_11002301_box_3" uigs="sogou_vr_11002301_box_3">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_6CJYZGDNCK3jKvYOt-PDU" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7yecUiaibL3cOhqMYlaRPXaO9YkWakneLh2DmxKgxS0u0g/0/0'"></div>
+<div class="txt-box">
+<h3><em><!--red_beg-->华德福<!--red_end--></em>生活</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">waldorfchina</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">莫丘利致力于服务<em><!--red_beg-->华德福<!--red_end--></em>学校和社区家庭两大群体,提供教育、艺术和生活领域中天然、环保、符合<em><!--red_beg-->华德福<!--red_end--></em>教育理念的产品.作为中国<em><!--red_beg-->华德福<!--red_end--></em>学校首选供应商,我们为自己设定目标,用合理的价格提供最优质产品,将发展成为...</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">广州莫丘利贸易有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_3" href="/websearch/art.jsp?sg=sn77VhdTZLqWXg4rznxHdv-56X3ely4rCk0EYbDjc5_iBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8whUDRrDhB-QI1TtpllJ0ighUW-zPEc5g3yi5obk15HVLGQ3JxMQ3374nhbGcXbeWqROPEkzCbeH5w6Pr0ermqE8BTIkimMjB8FYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">色彩与孩子的互动@台湾林祐竹老师 课堂整理</a><span class="hui"><script>vrTimeHandle552write('1450095607')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '3');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt_6CJYZGDNCK3jKvYOt-PDU" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7yecUiaibL3cOhqMYlaRPXaO9YkWakneLh2DmxKgxS0u0g/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/pHUPAHnENkdJh2hjnyCA"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt0dmb2tWiMUnmMmldhobwBI&amp;ext=BwNJn-VLvvOl2JEMxTbemjeoXP2pmwmNqFiGkCgaIkgZpOS0q0NZO7LFood5O8ck" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt0dmb2tWiMUnmMmldhobwBI&amp;ext=BwNJn-VLvvOl2JEMxTbemjeoXP2pmwmNqFiGkCgaIkgZpOS0q0NZO7LFood5O8ck',event,this);return true;" id="sogou_vr_11002301_box_4" uigs="sogou_vr_11002301_box_4">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt0dmb2tWiMUnmMmldhobwBI" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4mQzqnWA3BUZ3ch4BrQ54lj6RrZq6CkU9ouvrTC1IAJA/0/0'"></div>
+<div class="txt-box">
+<h3>沈阳<em><!--red_beg-->华德福<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">waldorfshenyang</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">传播<em><!--red_beg-->华德福<!--red_end--></em>教育理念,实践<em><!--red_beg-->华德福<!--red_end--></em>教育.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">沈阳市浑南区福瑞幼儿园</span>
+</p>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt0dmb2tWiMUnmMmldhobwBI" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4mQzqnWA3BUZ3ch4BrQ54lj6RrZq6CkU9ouvrTC1IAJA/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/gXXPwCnEExdshzijnyCl"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt6cm74QXkftRKGw20dmI4kM&amp;ext=BwNJn-VLvvPe3d3jHnPRk4lR9jWxlZ3KsdQkSHyzDOcXZjagM1wlk0HgHHLoea-W" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt6cm74QXkftRKGw20dmI4kM&amp;ext=BwNJn-VLvvPe3d3jHnPRk4lR9jWxlZ3KsdQkSHyzDOcXZjagM1wlk0HgHHLoea-W',event,this);return true;" id="sogou_vr_11002301_box_5" uigs="sogou_vr_11002301_box_5">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt6cm74QXkftRKGw20dmI4kM" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7P65eBsoMxawTbdJrvNlph7Meb4RmpAwlC74iaCWOiaoIg/0/0'"></div>
+<div class="txt-box">
+<h3>天蕴<em><!--red_beg-->华德福<!--red_end--></em>教育</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">gh_600308e9fbbb</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">为生活而准备的教育.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('1')</script>认证：</span><span class="sp-txt">来自腾讯微博认证资料:佛山市天蕴教育咨询有限公司官方微博 @天蕴教育</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_5" href="/websearch/art.jsp?sg=fB-1fST8iWBvOziP6KxF9JoFOOwLncqbKk-MLGLU8C7iBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wj4cWs4-tQMInaiex6Mb8M7UW-zPEc5g3z2pCLk4iHdN2Q3JxMQ3374haHwg0oZGOAvp-GStHKEIp5J-9ByZ6cqcZGFSLgUxthYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">【天蕴教育*健康*】自然疗养与健康食育工作坊第一站</a><span class="hui"><script>vrTimeHandle552write('1449802479')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '5');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt6cm74QXkftRKGw20dmI4kM" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM7P65eBsoMxawTbdJrvNlph7Meb4RmpAwlC74iaCWOiaoIg/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/B0xdUljErGbTh0kxnxkj"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt98ESUWiomwML5UGjB4gA2c&amp;ext=BwNJn-VLvvNKoCaAcWf3bvUfXVyfA5gHbSOrDHYkZ0zIffjREcVSasS8sjMfDqbP" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt98ESUWiomwML5UGjB4gA2c&amp;ext=BwNJn-VLvvNKoCaAcWf3bvUfXVyfA5gHbSOrDHYkZ0zIffjREcVSasS8sjMfDqbP',event,this);return true;" id="sogou_vr_11002301_box_6" uigs="sogou_vr_11002301_box_6">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt98ESUWiomwML5UGjB4gA2c" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6n81oFCJ1N3axUtAbg7B1A1cut8bEkWspvMXLRibLE0yw/0/0'"></div>
+<div class="txt-box">
+<h3>广田<em><!--red_beg-->华德福<!--red_end--></em>儿童家园</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">guangtian_hdf</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">让你我一起携手走近孩子,发现孩子.一切都未曾改变,我们的孩子就站在那里,他(她)是那么的纯粹、鲜活、开放&hellip;&hellip;</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('1')</script>认证：</span><span class="sp-txt">来自腾讯微博认证资料:广田华德福儿童家园官方微博 @广田华德福儿童家园</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_6" href="/websearch/art.jsp?sg=v9b3y-IawNAVjVSXxzY_ZJ-OK5F__ZwRMJGycMwcLH7iBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wiygFdYI6RbBKuTv6BId-TYFJmAPOq06Mx0YWVqeoPgbGQ3JxMQ33745zu-Hw-HDgiAj_Z7RNZNPh9xfiJRYfdEgkIRd6LbvfRYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">&ldquo;两周年&rdquo;感恩回馈活动</a><span class="hui"><script>vrTimeHandle552write('1449730888')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '6');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt98ESUWiomwML5UGjB4gA2c" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM6n81oFCJ1N3axUtAbg7B1A1cut8bEkWspvMXLRibLE0yw/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/z3UYF2nEXVcih3h0nyDr"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt5Fw178gg4FR8H4Afdeu8Tc&amp;ext=BwNJn-VLvvNWAKYiYbrXiE4odsGOXUauwRNlja1c513girXvDS0ljvLMsqjy3TUP" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt5Fw178gg4FR8H4Afdeu8Tc&amp;ext=BwNJn-VLvvNWAKYiYbrXiE4odsGOXUauwRNlja1c513girXvDS0ljvLMsqjy3TUP',event,this);return true;" id="sogou_vr_11002301_box_7" uigs="sogou_vr_11002301_box_7">
+<div class="img-box">
+<span class="ico-bg"></span><span class="ico-r"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt5Fw178gg4FR8H4Afdeu8Tc" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM59ZYmUcgOI5xluM9pd297YnIV4nbaxLTBRYnkMkbWUFg/0/0'"></div>
+<div class="txt-box">
+<h3>香普氏<em><!--red_beg-->华德福<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">waldorfroom</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">香普氏学堂以追求人的平衡、和谐、自在、圆满为教育宗旨,以<em><!--red_beg-->华德福<!--red_end--></em>为教育理念,以<em><!--red_beg-->华德福<!--red_end--></em>教学大纲为教学框架,以国家九年义务教育大纲为参考,以培养内在平衡、外在和谐、精神独立、能以清新的面貌融入社会的人为目...</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit"><script>authnamewrite('2')</script>认证：</span><span class="sp-txt">香普士(北京)教育科技有限公司</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_7" href="/websearch/art.jsp?sg=MPE2YXjatrz9t-QrEiEp17h1B-CH2Opv2BXp2hSkmuXiBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wh9CdGmDPMNDlo03PG6y1EtFJmAPOq06Mx7h8YXfJyJdGQ3JxMQ3374WRJDHBotjesU6WdQ_Q3zsjeQ_zWMYMGoApr7X7C6skVYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">孩子,你真是快活呀!</a><span class="hui"><script>vrTimeHandle552write('1450153722')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '7');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt5Fw178gg4FR8H4Afdeu8Tc" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM59ZYmUcgOI5xluM9pd297YnIV4nbaxLTBRYnkMkbWUFg/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/a0PJxqzEz5Kwh72lnxZP"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt1-fx11_H4GjYKCvb1sj_ZA&amp;ext=BwNJn-VLvvPxgHGkhhbY6RUM2Vpkl1PByEucGJFTVTtTQLmTS54fCb4VXVsbKy-8" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt1-fx11_H4GjYKCvb1sj_ZA&amp;ext=BwNJn-VLvvPxgHGkhhbY6RUM2Vpkl1PByEucGJFTVTtTQLmTS54fCb4VXVsbKy-8',event,this);return true;" id="sogou_vr_11002301_box_8" uigs="sogou_vr_11002301_box_8">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt1-fx11_H4GjYKCvb1sj_ZA" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4IFL4q0wrQiaJuDiaZ4waNpHfN0rGnxHAEVpQeRnf4CdDQ/0/0'"></div>
+<div class="txt-box">
+<h3>在家<em><!--red_beg-->华德福<!--red_end--></em></h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">Waldorfathome</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">&ldquo;在家<em><!--red_beg-->华德福<!--red_end--></em>&rdquo;是提供给广大认同<em><!--red_beg-->华德福<!--red_end--></em>教育理念的家长们在身边,在孩子课余时间实践<em><!--red_beg-->华德福<!--red_end--></em>教育精神的解决方案.我们将开发一系列符合<em><!--red_beg-->华德福<!--red_end--></em>教育理念的&ldquo;在家<em><!--red_beg-->华德福<!--red_end--></em>&rdquo;活动项目,欢迎爱好<em><!--red_beg-->华德福<!--red_end--></em>教育的人们一同在这片...</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_8" href="/websearch/art.jsp?sg=HIL9GMq1R08lIxlBBQSuH2Vy8QFCtrLgGjnARpZXc6PiBIZMy_EV1m1Cltgrx2oQsIdbSGR0tB854bxuvbq4U_I4_DCT9C-bQ0VtSSz1uHVLH1MaZLqqSg..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgaxDTi3NJ2vfvdODZKJ7s8UW-zPEc5g3wkNgcTnrxciGQ3JxMQ3374g8VyeFLsR2p_eueJGkBI3OhGxEQsY0yGbC11UAQ8c-dYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">Ben老师探讨<em><!--red_beg-->华德福<!--red_end--></em>教育的意义和目的</a><span class="hui"><script>vrTimeHandle552write('1450400006')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '8');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt1-fx11_H4GjYKCvb1sj_ZA" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM4IFL4q0wrQiaJuDiaZ4waNpHfN0rGnxHAEVpQeRnf4CdDQ/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/Vkx6dXPE-U2Ch2IWnxly"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+
+    <!-- a -->
+    <script>
+if(document.getElementById("tip_split")&&!window.tip_split_flag){document.getElementById("tip_split").style.display=''};
+window.tip_split_flag=true;
+</script><div class="wx-rb bg-blue wx-rb_v1 _item" href="/gzh?openid=oIWsFt-IACWggbqDnhFhSo-CgBWQ&amp;ext=BwNJn-VLvvO4zBuUne9d-CuuFG9lBHF4eEKlyzi8U85TUqxmUQf0RKQizQagDLZ3" target="_blank" uigs_exp_id="" onclick="gotourl('/gzh?openid=oIWsFt-IACWggbqDnhFhSo-CgBWQ&amp;ext=BwNJn-VLvvO4zBuUne9d-CuuFG9lBHF4eEKlyzi8U85TUqxmUQf0RKQizQagDLZ3',event,this);return true;" id="sogou_vr_11002301_box_9" uigs="sogou_vr_11002301_box_9">
+<div class="img-box">
+<span class="ico-bg"></span><img style="visibility:hidden" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt-IACWggbqDnhFhSo-CgBWQ" onload="vrImgLoad(this, 'fit', 57, 57)" onerror="vrImgErr(this, '/wechat/images/account/def56-56.png')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5vGXsR5d4RWpeIt9TJ1Rbqvib1umoH6JQHoN3O39urXZA/0/0'"></div>
+<div class="txt-box">
+<h3>在家<em><!--red_beg-->华德福<!--red_end--></em>妈妈联盟</h3>
+<h4>
+<span>微信号：<label name="em_weixinhao">huadefumamalianmeng</label></span>
+</h4>
+<p class="s-p3">
+<span class="sp-tit">功能介绍：</span><span class="sp-txt">在家<em><!--red_beg-->华德福<!--red_end--></em>教育交流,<em><!--red_beg-->华德福<!--red_end--></em>好听的歌谣和故事分享.因为孩子,我们聚集在这里,陪伴孩子一起成长.</span>
+</p>
+<p class="s-p3">
+<span class="sp-tit">最近文章：</span><span class="sp-txt"><a target="_blank" class="blue" id="sogou_vr_11002301_link_first_9" href="/websearch/art.jsp?sg=2kVjpB5lvwMuKiW6EVO7yA1wGsQf6lwaEj_Cc9lCNd2FDWZ6P16JS1QdEvCoau1s-1opj1StsPcbTGyMAaNt_RjH6AhAjOFAAzuAOPOMF3042i0-3sp6iQ..&amp;url=p0OVDH8R4SHyUySb8E88hkJm8GF_McJfBfynRTbN8wgDtuungq5ZS-YKMXcATJOkUW-zPEc5g3zETtk5nGT58WQ3JxMQ33741uNcmIeVvUQIK73dkL7VLuKGBMH9mQLB79zURfZ-hkJYy-5x5In7jJFmExjqCxhpkyjFvwP6PuGcQ64lGQ2ZDMuqxplQrsbk">【偶影戏冬令营】与偶影大师一起玩转指尖的舞蹈</a><span class="hui"><script>vrTimeHandle552write('1450346656')</script></span></span>
+</p>
+<script>
+     	(function(id,rank){
+     		var id = 'sogou_vr_'+id+'_link_first_'+rank;
+     		$s.$(id).title = $s.$(id).innerHTML.replace(/<.*?>/g, "");
+			$s.$(id).innerHTML = cutLength($s.$(id).innerHTML, 60, "",0);
+     	})('11002301', '9');
+                            </script>
+</div>
+<div class="pos-ico">
+<span></span>
+<div class="pos-box" goto="1">
+<em>
+<div>
+<img style="width:34px;height:34px" src="http://img01.sogoucdn.com/app/a/100520090/oIWsFt-IACWggbqDnhFhSo-CgBWQ" onerror="vrImgErr(this, '')" extra="err:'http://img01.sogoucdn.com/net/a/04/link?appid=100520078&amp;url=http://wx.qlogo.cn/mmhead/Q3auHgzwzM5vGXsR5d4RWpeIt9TJ1Rbqvib1umoH6JQHoN3O39urXZA/0/0'"></div>
+</em><img width="140" height="140" alt="" src="http://img03.sogoucdn.com/app/a/100520105/UkNoZ53E9qOJh4wEnxZ2"><span class="_phoneimg"></span>
+</div>
+</div>
+</div>
+
+    <!-- z -->
+</div></div></div></div><div class="right" id="right">
+<span class="atGradientLine"></span><div class="atTrunk" style="padding-left:15px" id="kmap_entity_div">
+
+
+
+</div>
+
+
+</div></div><div class="p" id="pagebar_container"><span>1</span> <a id="sogou_page_2" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=2&ie=utf8">2</a><a id="sogou_page_3" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=3&ie=utf8">3</a><a id="sogou_page_4" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=4&ie=utf8">4</a><a id="sogou_page_5" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=5&ie=utf8">5</a><a id="sogou_page_6" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=6&ie=utf8">6</a><a id="sogou_page_7" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=7&ie=utf8">7</a><a id="sogou_page_8" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=8&ie=utf8">8</a><a id="sogou_page_9" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=9&ie=utf8">9</a><a id="sogou_page_10" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=10&ie=utf8">10</a><a id="sogou_next" href="?query=%E5%8D%8E%E5%BE%B7%E7%A6%8F&type=1&page=2&ie=utf8" class="np">下一页</a><div class="mun">找到约<resnum id="scd_num">195</resnum>条结果<!--resultbarnum:195--></div></div>
+<div class="foot" id="s_bottom_form">
+<form name="searchForm1" id="searchForm1" action="/weixin">
+<div class="querybox">
+    <div class="qborder">
+        <div class="qborder2">
+            <input type="hidden" name="type" id="uptype" value="1"/>
+            <input type="text"
+                   class="query"
+                   id="upquery"
+                   name="query"
+                   ov="华德福"
+                   value="华德福"
+                   autocomplete="off"
+
+                    >
+            
+            <input type="hidden" name="ie" value="utf8"/>
+            
+            
+            
+            <a href="javascript:void(0)" class="qreset2" ></a>
+        </div>
+    </div>
+    <input type="button" value="搜文章" class="swz" onclick="weinxinfilter(this,2)"  uigs="weixin_search_button_pc_art">
+    <input type="button" value="搜公众号" class="swz2"  onclick="weinxinfilter(this,1)" uigs="weixin_search_button_pc_gzh">
+</div>
+
+
+</form>
+</div>
+
+
+<div class="cr" id="s_footer"><!--[if IE]><a id="sogou_hpfooter" href="#pageEnd" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.sogou.com');">设为首页</a> | <![endif]--><a target="_blank" id="sogou_webhelp" href="http://help.sogou.com/">搜索帮助</a><a href="http://weixin.sogou.com/gzh?openid=oIWsFtwbY2FBzmziwjDxei2vc_1Q&ext=BwNJn-VLvvMPQEERXg8J-PQTfDCKaXp-IQcUDrdIZbWqZKLMpOebP8MfnqFRjrj-wcJ8xNmBiBgjlWTuZFXwGw.." target="_blank">官方微信</a> &copy; 2015 SOGOU.COM <a href="http://www.sogou.com/docs/terms.htm" target="_blank" class="g">免责声明</a></div></div>
+<script>sst.b_e=$s.t();</script>
+
+<script>var WX_SUGG_PAGE_FROM="pcGzhSearch"</script>
+
+<img style="position:absolute;top:-1px" src="http://www.sogou.com/img/fav.ico?c3796c4b-b9dc-41d0-b4d0-57458becc783" height="0" border="0" width="0"/><form id="tupufankuiform" method="post" accept-charset="utf-8"><input type="hidden" name="cause" value="" /><input type="hidden" name="query" value="华德福" /><input type="hidden" name="refer" value="null" /><input type="hidden" name="uuid" value="c3796c4b-b9dc-41d0-b4d0-57458becc783" /><input type="hidden" name="scenehtml" value="" id="tupuscenehtml" /><input type="hidden" name="queryurl" value="" /><input type="hidden" name="content" value=""/></form><script>window.onload = function(){sst.w_l=$s.t(); if (document.searchForm1){document.searchForm1.reset();}if(document.searchForm && !document.searchForm.getAttribute("reseted")){document.searchForm.reset()}};
+sogou_top_words=[];
+
+
+var SugPara = {"bigsize":true,"enableSug":true,"sugType":"wxpub","domain":"w.sugg.sogou.com","productId":"web","sugFormName":"sf","inputid":"upquery","submitId":"stb","suggestRid":"01015002","normalRid":"01019900", oms:1, nofixwidth:1, useParent:1};
+</script>
+<script src="/js/sugg_new_wx.js"></script>
+
+    <script src="/wechat/js/weixin_qrcode.min.js"></script>
+
+<script type="text/javascript">var uigs_para = {
+    "uigs_productid": "webapp",
+    "uigs_cookie"   : "SUID,sct",
+    "uuid"          : "c3796c4b-b9dc-41d0-b4d0-57458becc783",
+    "query"         : "华德福",
+    "weixintype"    : "1",
+    "exp_status"    : "-1",
+    "exp_id"        : "null_0-null_1-null_2-null_3-null_4-null_5-null_6-null_7-null_8-null_9-"
+    ,exp_id_list:'0_0'
+};</script>
+<script>uigs_para&&(uigs_para.noresult=0);</script>
+<script>function call_cloud(a){setTimeout(function(){call_cloud(a)}, 500);}sst.h_e=$s.t();var newpage= 1,passportUserId=""</script>
+<script src="/wechat/js/weixin_pv.min.js"></script>
+<script>weixinpv('weixin_search_pc');if(!$s.ua.ios&&!$s.ua.and){$s.$b(window,["resize"],[fix]);}fix();</script>
+<script type="text/javascript" src="/js/pb.nogz.js?v=1"></script>
+
+
+
+
+<script>$(function(){ var jf=$("[name=em_weixinhao]").eq(0); var html = jf.html();    if(html=="华德福"){        jf.html("<em>"+html+"</em>")    }})</script>
+
+<script>weixin_statistic__to_top_type="pc_gzh_search"</script>
+<script src="/wechat/js/scroll2top.min.js"></script>
+</body></html>
+<!--1450424023902-->
+
+
+
+
+
+
+
+<!--zly--><!--weixin-->
+
+";
