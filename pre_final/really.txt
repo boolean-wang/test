@@ -77,7 +77,7 @@
             <input type="hidden" name="r" id="from" value="%2Fweixin%3Ftype%3D2%26query%3D%E5%A4%B4%E5%8F%91%26ie%3Dutf-8%26page%3D7" >
             <input type="hidden" name="m" value="0" >            <span class="s1">
                 <script>imgRequestTime=new Date();</script>
-                <img id="seccodeImage" onload="setImgCode(1)" onerror="setImgCode(0)" src="util/seccode.php?tc=1451446038" width="174" height="40" alt="请输入图中的验证码" title="请输入图中的验证码">
+                <img id="seccodeImage" onload="setImgCode(1)" onerror="setImgCode(0)" src="util/seccode.php?tc=1451554307" width="174" height="40" alt="请输入图中的验证码" title="请输入图中的验证码">
             </span>
             <a href="javascript:void(0);" id="change-img">换一张</a>
             <span class="s2" id="error-tips" style="display: none;"></span>
